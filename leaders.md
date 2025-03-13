@@ -1,4 +1,4 @@
 ### Leaders
-* [Rahul Kamilya](mailto:rahulkamilya09@gmail.com)
-* [Shreya Dutta ](mailto:shreyadutta9503@gmail.com)
-* [Tanaya Das](mailto:tanaya.das@jisuniversity.ac.in)
+* [Rahul Kamilya](mailto:rahul.kamilya@owasp.org)
+* [Shreya Dutta ](mailto:shreya.dutta@owasp.org)
+* [Tanaya Das: Faculty Advisor](mailto:tanaya.das@owasp.org)
