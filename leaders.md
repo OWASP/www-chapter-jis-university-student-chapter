@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Rahul Kamilya](mailto:rahulkamilya09@gmail.com)
+* [Shreya Dutta ](mailto:shreyadutta9503@gmail.com)
+* [Tanaya Das](mailto:tanaya.das@jisuniversity.ac.in)
