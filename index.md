@@ -1,6 +1,6 @@
 ---
 layout: col-sidebar
-title: OWASP JIS University Student Chapter
+title: OWASP JIS University
 tags: security application-security cyber OWASP
 region: Asia
 country: India
@@ -9,7 +9,7 @@ meetup-group: OWASP-JIS-University
 
 ![OWASP JIS University](https://raw.githubusercontent.com/OWASP/www-chapter-jis-university-student-chapter/main/assets/images/OWASP%20JISU.jpg)
 
-## Welcome to OWASP JIS University 🚀  
+## Welcome to OWASP JIS University  
 
 OWASP JIS University is a **student-led cybersecurity community** affiliated with the **Open Web Application Security Project (OWASP)**. We are dedicated to **building a security-first mindset** through hands-on **workshops, CTFs, hackathons, and research** in cybersecurity and application security.  
 
