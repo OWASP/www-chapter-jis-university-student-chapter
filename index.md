@@ -7,7 +7,7 @@ country: India
 meetup-group: OWASP-JIS-University
 ---
 
-![OWASP JIS University](https://github.com/OWASP/www-chapter-jis-university-student-chapter/blob/main/assets/images/OWASP%20JISU.jpg)
+![OWASP JIS University](https://raw.githubusercontent.com/OWASP/www-chapter-jis-university-student-chapter/main/assets/images/OWASP%20JISU.jpg)
 
 ## Welcome to OWASP JIS University 🚀  
 
