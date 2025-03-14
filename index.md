@@ -13,7 +13,7 @@ meetup-group: OWASP-JIS-University
 
 OWASP JIS University is a **student-led cybersecurity community** affiliated with the **Open Web Application Security Project (OWASP)**. We are dedicated to **building a security-first mindset** through hands-on **workshops, CTFs, hackathons, and research** in cybersecurity and application security.  
 
-### **🥷 Our Mission**  
+## **🥷 Our Mission**  
 - Promote **secure coding practices** among students.  
 - Encourage **ethical hacking** and **security research**.  
 - Collaborate on **open-source security projects**.  
