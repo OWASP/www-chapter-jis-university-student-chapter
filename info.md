@@ -1,4 +1,4 @@
-<img src="https://github.com/OWASP/www-chapter-jis-university-student-chapter/blob/main/assets/images/jisulogo%20(3).png" width="200" height="200">  
+<img src="https://raw.githubusercontent.com/OWASP/www-chapter-jis-university-student-chapter/main/assets/images/jisulogo-3.png" width="200" height="200">
  
 **Official Website: ➡️** [jisuniversity.ac.in](https://jisuniversity.ac.in) 
 
