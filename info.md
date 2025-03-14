@@ -3,7 +3,4 @@
 🌍 **Official Website:** [www.jisuniversity.ac.in](https://jisuniversity.ac.in)  
 
 ---
-
-## 📍JIS University, Kolkata   
-
 **JIS University**, located in **West Bengal, India**, is a premier institution committed to academic excellence, innovation, and research. Established to provide **world-class education**, the university focuses on **multidisciplinary learning, industry-oriented programs, and holistic student development**.  
