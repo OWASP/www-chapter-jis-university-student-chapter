@@ -11,7 +11,6 @@ tags: OWASP-SSEC
 Welcome to the events section! Here, you’ll find details of our **upcoming** and **past** events.
 
 ## Upcoming Events 🚀
-{% include chapter_events.html %}
 
 ---
 <!--
