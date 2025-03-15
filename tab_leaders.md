@@ -16,4 +16,8 @@ tags: OWASP-JISU
 | Rahul Kamilya     | Chapter Lead       | B.Tech CSE          |
 | Shreya Dutta      | Junior Lead        | B.Tech CSE          |
 
-> 🚀 Organizers are committed to fostering cybersecurity awareness and building a strong community of security enthusiasts.  
+---
+
+> <p align="center"> Organizers are committed to fostering cybersecurity awareness and building a strong community of security enthusiasts 🛡️ 
+
+---
