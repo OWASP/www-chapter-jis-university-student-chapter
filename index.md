@@ -26,13 +26,3 @@ OWASP JIS University is a **student-led cybersecurity community** affiliated wit
 ---
 
 ## **📅 Next Meeting/Event**  
-<iframe
-  src="https://lu.ma/embed/event/evt-RgsmUojdO9QRYEf/simple"
-  width="600"
-  height="450"
-  frameborder="0"
-  style="border: 1px solid #bfcbda88; border-radius: 4px;"
-  allowfullscreen=""
-  aria-hidden="false"
-  tabindex="0"
-></iframe>
