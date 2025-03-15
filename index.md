@@ -17,11 +17,18 @@ OWASP JIS University is a **student-led cybersecurity community** affiliated wit
 - Encourage **ethical hacking** and **security research**.  
 - Collaborate on **open-source security projects**.  
 - Organize **events, workshops, and hackathons** on cybersecurity.  
-- Contribute to **OWASP global initiatives**.  
+- Contribute to **OWASP global initiatives**.
+
+## 🧑🏻‍💻 Become a Member  
+<p align="center">
+  <a href="https://owasp.org/membership/" target="_blank">
+    <img src="https://img.shields.io/badge/Join_OWASP_JIS_University-blue?style=for-the-badge&logo=owasp&logoColor=black&border_color=black" alt="Join OWASP" style="border: 2px solid black; padding: 5px; border-radius: 8px;">
+  </a>
+</p>
 
 ---
 
-> **💡** OWASP chapters are open to everyone—students, professionals, and cybersecurity enthusiasts!  
+> <p align="center">💡 OWASP chapters are open to everyone—students, professionals, and cybersecurity enthusiasts!  
 
 ---
 
