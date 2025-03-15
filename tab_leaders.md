@@ -12,7 +12,7 @@ tags: OWASP-JISU
 
 | Name              | Role               | Designation         |
 | ----------------- | ------------------ |---------------------|
-| Tanaya Das        | Faculty Mentor     | Assistant Professor |
+| Tanaya Das        | Faculty Advisor     | Assistant Professor |
 | Rahul Kamilya     | Chapter Lead       | B.Tech CSE          |
 | Shreya Dutta      | Junior Lead        | B.Tech CSE          |
 
