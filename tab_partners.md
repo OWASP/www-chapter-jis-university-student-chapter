@@ -14,8 +14,12 @@ We collaborate with various organizations and institutions to foster cybersecuri
 
 | Organization Name | Role                       | Signed By             |
 |-------------------|----------------------------|---------------------- |
-| [GDG on Campus JIS University](https://gdg.community.dev/gdg-on-campus-jis-university-kolkata-india/) | Community Partner | Ankita Chakraborty  |
+| [GDG on Campus JISU](https://gdg.community.dev/gdg-on-campus-jis-university-kolkata-india/) | Community Partner | Ankita Chakraborty  |
 
-> 🚀 Our partners play a vital role in strengthening the cybersecurity community.  
+---
 
-Stay tuned for more collaborations!  
+> <p align="center"> Our partners play a vital role in strengthening the cybersecurity community. ✨
+
+---
+
+<b>Stay tuned for more collaborations! </b> 
