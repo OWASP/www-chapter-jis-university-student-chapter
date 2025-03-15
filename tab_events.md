@@ -1,6 +1,6 @@
 ---
 title: Events
-layout: default
+layout: null
 tab: true
 order: 1
 tags: OWASP-JISU
@@ -23,3 +23,4 @@ Here are some of the past events we’ve hosted:
 - **Event Name 3** - Date - [Event Details](#)  
 
 Stay tuned for more updates!
+-->
