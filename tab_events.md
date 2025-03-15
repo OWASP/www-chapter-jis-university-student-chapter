@@ -1,6 +1,6 @@
 ---
 title: Events
-layout: null
+layout: default
 tab: true
 order: 1
 tags: OWASP-JISU
@@ -14,7 +14,7 @@ Welcome to the events section! Here, you’ll find details of our **upcoming** a
 {% include chapter_events.html group=page.meetup-group %}
 
 ---
-
+<!--
 ## Past Events⏳  
 Here are some of the past events we’ve hosted:
 
