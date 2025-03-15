@@ -1,7 +1,7 @@
 ---
 layout: col-sidebar
 title: OWASP JIS University
-tags: security application-security cyber OWASP
+tags: OWASP-JISU
 region: Asia
 country: India
 meetup-group: OWASP-JIS-University
