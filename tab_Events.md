@@ -14,7 +14,7 @@ Welcome to the events section! Here, you’ll find details of our **upcoming** a
 {% include chapter_events.html group=page.meetup-group %}
 
 ---
-<!-- commentted out
+<!-- comment out
 ## ⏳ Past Events  
 Here are some of the past events we’ve hosted:
 
