@@ -20,6 +20,7 @@ OWASP JIS University is a **student-led cybersecurity community** affiliated wit
 - Contribute to **OWASP global initiatives**.
 
 ## 🧑🏻‍💻 Become a Member  
+<br>
 <p align="center">
   <a href="https://owasp.org/membership/" target="_blank">
     <img src="https://img.shields.io/badge/Join_OWASP_JIS_University-blue?style=for-the-badge&logo=owasp&logoColor=black&border_color=black" alt="Join OWASP" style="border: 2px solid black; padding: 5px; border-radius: 8px;">
