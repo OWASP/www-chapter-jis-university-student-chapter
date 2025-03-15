@@ -10,10 +10,10 @@ tags: OWASP-JISU
 
 ### OWASP JIS University Student Chapter  
 
-| Name              | Role               |
-| ----------------- | ------------------ |
-| Mrs. Tanaya Das   | Faculty Mentor     |
-| Rahul Kamilya     | Chapter Lead       |
-| Shreya Dutta      | Junior Lead        |
+| Name              | Role               | Designation         |
+| ----------------- | ------------------ |---------------------|
+| Tanaya Das        | Faculty Mentor     | Assistant Professor |
+| Rahul Kamilya     | Chapter Lead       | B.Tech CSE          |
+| Shreya Dutta      | Junior Lead        | B.Tech CSE          |
 
 > 🚀 Organizers are committed to fostering cybersecurity awareness and building a strong community of security enthusiasts.  
