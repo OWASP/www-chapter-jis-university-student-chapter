@@ -11,7 +11,7 @@ OWASP JIS University is a student-led chapter under the **Open Web Application S
 - **Chapter Lead:** [Rahul Kamilya](https://www.linkedin.com/in/rahulkamilya/)
 - **Junior Lead:** [Shreya Dutta](https://www.linkedin.com/in/shreya-dutta-cybersecurity/) 
 - **Faculty Advisor:** [Tanaya Das](#)  
-- **Official OWASP Website:** [OWASP JIS University](https://owasp.org/www-chapter-jis-university/)  
+- **Official OWASP Website:** [OWASP JIS University](https://owasp.org/www-chapter-jis-university-student-chapter/)  
 - **GitHub Organization:** [OWASP](https://github.com/OWASP)  
 
 ---
