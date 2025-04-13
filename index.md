@@ -4,6 +4,7 @@ title: OWASP JIS University
 tags: OWASP-JISU
 region: Asia
 country: India
+meetup-group: owasp-jisu
 ---
 
 ![OWASP JIS University](https://raw.githubusercontent.com/OWASP/www-chapter-jis-university-student-chapter/main/assets/images/OWASP%20JISU.jpg)
@@ -35,3 +36,4 @@ OWASP JIS University is a **student-led cybersecurity community** affiliated wit
 ---
 
 ## **📅 Next Meeting/Event**  
+{% include chapter_events.html group=page.meetup-group %}
