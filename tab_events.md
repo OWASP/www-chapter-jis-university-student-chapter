@@ -4,6 +4,7 @@ layout: null
 tab: true
 order: 1
 tags: OWASP-JISU
+meetup-group: owasp-jisu
 ---
 
 # Events
