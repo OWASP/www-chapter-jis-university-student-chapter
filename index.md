@@ -25,8 +25,8 @@ OWASP JIS University is a **student-led cybersecurity community** affiliated wit
 <p align="center">
   <!-- Join OWASP Button -->
   <a href="https://forms.gle/tuahaKKMKELk5cee8" target="_blank" style="margin-right: 15px;">
-    <img src="https://img.shields.io/badge/Join_OWASP_JIS_University-blue?style=for-the-badge&logo=owasp&logoColor=black&border_color=black" alt="Join OWASP" style="border: 2px solid black; padding: 5px; border-radius: 8px;">
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/Join_OWASP_JISU-blue?style=for-the-badge&logo=owasp&logoColor=black&border_color=black" alt="Join OWASP" style="border: 2px solid black; padding: 5px; border-radius: 8px;">
+  </a>
   <!-- Meetup Group Button -->
   &nbsp;<a href="https://www.meetup.com/owasp-jisu/" target="_blank">
     <img src="https://img.shields.io/badge/Join_Meetup_Group-red?style=for-the-badge&logo=meetup&logoColor=white&border_color=black" alt="Visit Meetup" style="border: 2px solid black; padding: 5px; border-radius: 8px;">
