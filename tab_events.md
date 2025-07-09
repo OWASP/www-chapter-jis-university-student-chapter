@@ -25,17 +25,20 @@ As part of this mega event, we hosted a special sub-event series — **HexaFalls
 
 ### Event Highlights
 
+### Event Highlights
+
 <p align="center">
-  <img src="https://i.ibb.co/1Jqgx48Y/IMG-2793.jpg" width="30%" alt="Event Highlights_1" />
-  <img src="https://i.ibb.co/zhJr3YqZ/MG-2825.jpg" width="30%" alt="Event Highlights_2" />
-  <img src="https://i.ibb.co/TBywBbdn/IMG-2853.jpg" width="30%" alt="Event Highlights_3" />
+  <img src="https://raw.githubusercontent.com/OWASP/www-chapter-jis-university-student-chapter/main/assets/images/IMG_2793.JPG" width="30%" alt="Event Highlight1" />
+  <img src="https://raw.githubusercontent.com/OWASP/www-chapter-jis-university-student-chapter/main/assets/images/IMG_2853.JPG" width="30%" alt="Event Highlights2" />
+  <img src="https://raw.githubusercontent.com/OWASP/www-chapter-jis-university-student-chapter/main/assets/images/_MG_2825.JPG" width="30%" alt="Event Highlights3" />
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/YBtZ4nFP/IMG-2941.jpg" width="30%" alt="Hackathon Venue 1" />
-  <img src="https://i.ibb.co/wrLRmr3L/IMG-20250704-143028.jpg" width="30%" alt="Team" />
-  <img src="https://i.ibb.co/Cr4BvFK/IMG-2699-1.jpg" width="30%" alt="Hackathon Venue 2" />
+  <img src="https://raw.githubusercontent.com/OWASP/www-chapter-jis-university-student-chapter/main/assets/images/IMG_2699 (1).JPG" width="30%" alt="Venue1" />
+  <img src="https://raw.githubusercontent.com/OWASP/www-chapter-jis-university-student-chapter/main/assets/images/IMG_20250704_143028.jpg" width="30%" alt="Team" />
+  <img src="https://raw.githubusercontent.com/OWASP/www-chapter-jis-university-student-chapter/main/assets/images/IMG_2941.JPG" width="30%" alt="Venue2" />
 </p>
+
 
 
 ## Upcoming Events 🚀
