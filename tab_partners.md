@@ -17,7 +17,7 @@ We collaborate with various organizations and institutions to foster cybersecuri
 | [GDG on Campus JISU](https://gdg.community.dev/gdg-on-campus-jis-university-kolkata-india/) | Community Partner | Ankita Chakraborty  |
 
 ---
-
+> <p align="center"> For partnership and speaker queries, mail to: <a href="mailto:rahul.kamilya@owasp.org">rahul.kamilya@owasp.org</a> 📩
 > <p align="center"> Our partners play a vital role in strengthening the cybersecurity community. ✨
 
 ---
