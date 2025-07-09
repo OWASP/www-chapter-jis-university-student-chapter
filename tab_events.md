@@ -17,13 +17,11 @@ Welcome to the events section! Here, you’ll find details of our **upcoming** a
 | HexaFalls CTF    | CTF - Round 2  | JIS University | 28/06/2025 : *02:00* |
 | HexaFalls CTF    | CTF - Round 3  | JIS University | 29/06/2025 : *08:30* |
 
-### About the Event
+### About the Event 🚩
 
 **HexaFalls** is a flagship **32-hour national-level Hackathon** organized by **JIS University**, bringing together brilliant minds to innovate, build, and collaborate on impactful tech solutions.
 
 As part of this mega event, we hosted a special sub-event series — **HexaFalls CTFs (Capture The Flag)** — to challenge participants on their cybersecurity, problem-solving, and analytical skills. The CTFs ran alongside the main hackathon, allowing participants to dive deep into the world of ethical hacking and digital forensics. These CTFs provided a hands-on experience for students to sharpen their cyber instincts in a fun and competitive environment.
-
-### Event Highlights
 
 ### Event Highlights
 
