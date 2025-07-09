@@ -11,11 +11,11 @@ meetup-group: owasp-jisu
 
 Welcome to the events section! Here, you’ll find details of our **upcoming** and **past** events.
 
-| Title            | Agenda         | Location/URL   | Date & Time         |
-|------------------|----------------|----------------|----------------------|
-| HexaFalls CTF    | CTF - Round 1  | JIS University | 28/06/2025 : *19:30* |
-| HexaFalls CTF    | CTF - Round 2  | JIS University | 28/06/2025 : *02:00* |
-| HexaFalls CTF    | CTF - Round 3  | JIS University | 29/06/2025 : *08:30* |
+| Title            | Agenda         | Location       | Date & Time          | Status       |
+|------------------|----------------|----------------|----------------------|--------------|
+| HexaFalls CTF    | CTF - Round 1  | JIS University | 28/06/2025 : *19:30* | ✅ Completed |
+| HexaFalls CTF    | CTF - Round 2  | JIS University | 28/06/2025 : *02:00* |	✅ Completed |
+| HexaFalls CTF    | CTF - Round 3  | JIS University | 29/06/2025 : *08:30* |	✅ Completed |
 
 ### About the Event 🚩
 
@@ -23,7 +23,7 @@ Welcome to the events section! Here, you’ll find details of our **upcoming** a
 
 As part of this mega event, we hosted a special sub-event series — **HexaFalls CTFs (Capture The Flag)** — to challenge participants on their cybersecurity, problem-solving, and analytical skills. The CTFs ran alongside the main hackathon, allowing participants to dive deep into the world of ethical hacking and digital forensics. These CTFs provided a hands-on experience for students to sharpen their cyber instincts in a fun and competitive environment.
 
-### Event Highlights
+### Event Highlights 🌟
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/OWASP/www-chapter-jis-university-student-chapter/main/assets/images/IMG_2793.JPG" width="30%" alt="Event Highlight1" />
