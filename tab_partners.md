@@ -14,7 +14,7 @@ We collaborate with various organizations and institutions to foster cybersecuri
 
 | Organization Name | Role                       | Signed By             |
 |-------------------|----------------------------|---------------------- |
-| [GDG on Campus JISU](https://gdg.community.dev/gdg-on-campus-jis-university-kolkata-india/) | Community Partner | Ankita Chakraborty  |
+| [GDG on Campus JISU](https://gdg.community.dev/gdg-on-campus-jis-university-kolkata-india/) | Community Partner | Ayushman Bhattacharya  |
 
 ---
 > <p align="center"> For partnership and speaker queries, mail to: <a href="mailto:rahul.kamilya@owasp.org">rahul.kamilya@owasp.org</a> 📩
