@@ -10,7 +10,7 @@ location:
   country: India
   country_code: IN
   region: West Bengal
-  city: Kalyani
+  city: Kolkata
   latitude: 22.9749723
   longitude: 88.4345915
 meetup_group: owasp-jisu
@@ -21,6 +21,6 @@ repositories:
     description: OWASP Foundation web repository
 tags:
   - OWASP-JISU
-  - custom-tag-1
-  - custom-tag-2
+  - JIS-UNIVERSITY
+  - GDG-JIS-UNIVERSITY
 website: https://owasp.org/www-chapter-jis-university-student-chapter
