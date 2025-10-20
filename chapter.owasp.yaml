@@ -1,0 +1,26 @@
+leaders:
+  - name: Rahul Kamilya
+    email: rahul.kamilya@owasp.org
+    github: rahulkamilya
+  - name: Shreya Dutta
+    email: shreya.dutta@owasp.org
+  - name: Tanaya Das
+    email: tanaya.das@owasp.org
+location:
+  country: India
+  country_code: IN
+  region: West Bengal
+  city: Kolkata
+  latitude: 22.9749723
+  longitude: 88.4345915
+meetup_group: owasp-jisu
+name: OWASP JIS University
+repositories:
+  - name: www-chapter-jis-university-student-chapter
+    url: https://github.com/OWASP/www-chapter-jis-university-student-chapter
+    description: OWASP Foundation web repository
+tags:
+  - OWASP-JISU
+  - JIS-UNIVERSITY
+  - GDG-JIS-UNIVERSITY
+website: https://owasp.org/www-chapter-jis-university-student-chapter
