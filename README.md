@@ -3,7 +3,7 @@
 ![OWASP Logo](https://github.com/OWASP/www-jis-university-student-chapter/blob/main/assets/images/OWASP%20JISU.jpg)  
 
 ## **Welcome to OWASP JIS University** 🎉  
-OWASP JIS University is a student-led chapter under the **Open Web Application Security Project (OWASP)**, dedicated to building a strong **cybersecurity** and **ethical hacking** community within our university. Our goal is to promote **secure coding practices, application security, and research in cybersecurity** through hands-on workshops, hackathons, and knowledge-sharing sessions.  
+OWASP JIS University is a student-led chapter under the **Open Worldwide Application Security Project (OWASP)**, dedicated to building a strong **cybersecurity** and **ethical hacking** community within our university. Our goal is to promote **secure coding practices, application security, and research in cybersecurity** through hands-on workshops, hackathons, and knowledge-sharing sessions.  
 
 ---
 
