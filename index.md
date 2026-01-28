@@ -9,6 +9,17 @@ meetup-group: owasp-jisu
 
 ![OWASP JIS University](https://raw.githubusercontent.com/OWASP/www-chapter-jis-university-student-chapter/main/assets/images/OWASP%20JISU.jpg)
 
+> **IMPORTANT NOTICE** 🚨  
+> <span style="color:red; font-weight:bold;">
+> OWASP website migration is currently in progress by the OWASP team.
+> </span>  
+>  
+> This chapter page is part of the legacy GitHub-hosted site.  
+> The **new official OWASP chapter website** will be available in the coming months.  
+>  
+> Until then, please **join our WhatsApp community** to stay updated on events, sessions, and announcements.
+
+
 ## Welcome to OWASP JIS University  
 
 OWASP JIS University is a **student-led cybersecurity community** affiliated with the **Open Worldwide Application Security Project (OWASP)**. We are dedicated to **building a security-first mindset** through hands-on **workshops, CTFs, hackathons, and research** in cybersecurity and application security.  
@@ -24,13 +35,13 @@ OWASP JIS University is a **student-led cybersecurity community** affiliated wit
 <br>
 <p align="center">
   <!-- Join OWASP Button -->
-  <a href="https://forms.gle/tuahaKKMKELk5cee8" target="_blank" style="margin-right: 15px;">
+  <a href="https://chat.whatsapp.com/KaDR5HpXz2v7VVjvBIk61Y" target="_blank" style="margin-right: 15px;">
     <img src="https://img.shields.io/badge/Join_OWASP_JISU-blue?style=for-the-badge&logo=owasp&logoColor=black&border_color=black" alt="Join OWASP" style="border: 2px solid black; padding: 5px; border-radius: 8px;">
   </a>
   <!-- Meetup Group Button -->
-  &nbsp;<a href="https://www.meetup.com/owasp-jisu/" target="_blank">
+  <!-- &nbsp;<a href="https://www.meetup.com/owasp-jisu/" target="_blank">
     <img src="https://img.shields.io/badge/Join_Meetup_Group-red?style=for-the-badge&logo=meetup&logoColor=white&border_color=black" alt="Visit Meetup" style="border: 2px solid black; padding: 5px; border-radius: 8px;">
-  </a>
+  </a> -->
 </p>
 <br>
 
