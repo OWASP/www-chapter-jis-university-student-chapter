@@ -9,6 +9,7 @@ meetup-group: owasp-jisu
 
 ![OWASP JIS University](https://raw.githubusercontent.com/OWASP/www-chapter-jis-university-student-chapter/main/assets/images/OWASP%20JISU.jpg)
 
+---
 > **IMPORTANT NOTICE** 🚨  
 > <span style="color:red; font-weight:bold;">
 > OWASP website migration is currently in progress by the OWASP team.
@@ -18,7 +19,7 @@ meetup-group: owasp-jisu
 > The **new official OWASP chapter website** will be available in the coming months.  
 >  
 > Until then, please **join our WhatsApp community** to stay updated on events, sessions, and announcements.
-
+---
 
 ## Welcome to OWASP JIS University  
 
