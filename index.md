@@ -9,16 +9,21 @@ meetup-group: owasp-jisu
 
 ![OWASP JIS University](https://raw.githubusercontent.com/OWASP/www-chapter-jis-university-student-chapter/main/assets/images/OWASP%20JISU.jpg)
 
+
 ---
-> **IMPORTANT NOTICE** 🚨  
-> <span style="color:red; font-weight:bold;">
+
+> <p align="center">🚨 <strong>IMPORTANT NOTICE</strong> 🚨</p>  
+> <p align="center"><span style="color:red; font-weight:bold;">
 > OWASP website migration is currently in progress by the OWASP team.
-> </span>  
->  
-> This chapter page is part of the legacy GitHub-hosted site.  
-> The **new official OWASP chapter website** will be available in the coming months.  
->  
-> Until then, please **join our WhatsApp community** to stay updated on events, sessions, and announcements.
+> </span></p>  
+> <p align="center">
+> This chapter page is part of the legacy GitHub-hosted site.<br>
+> The <strong>new official OWASP chapter website</strong> will be available in the coming months.
+> </p>  
+> <p align="center">
+> Until then, please <strong>join our WhatsApp community</strong> to stay updated on events, sessions, and announcements.
+> </p>
+
 ---
 
 ## Welcome to OWASP JIS University  
