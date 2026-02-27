@@ -6,80 +6,135 @@ order: 1
 tags: OWASP-JISU
 meetup-group: owasp-jisu
 ---
-# Events
+<h1 style="margin-bottom:10px;">Events</h1>
 
-Welcome to the Events section of OWASP JIS University Student Chapter.  
+<p>
+Welcome to the Events section of <strong>OWASP JIS University Student Chapter</strong>.<br>
 Here you’ll find details about our upcoming engagements and successfully conducted cybersecurity events.
+</p>
 
----
+<hr>
 
-## **Upcoming Events 🚀**
+<h2 style="margin-top:25px;">Upcoming Events 🚀</h2>
 
 <details>
-<summary><strong>Click to View Upcoming Events</strong></summary>
+<summary style="cursor:pointer; font-weight:bold; font-size:16px;">
+Click to View Upcoming Events
+</summary>
 
 <br>
 
-### 🚀 Events Are Coming Soon!
+<h3>🚀 Events Are Coming Soon!</h3>
 
-We are currently planning:
+<ul>
+  <li><strong>Advanced Cybersecurity Workshops</strong></li>
+  <li><strong>Live Capture The Flag (CTF) Competitions</strong></li>
+  <li><strong>Industry Expert Sessions</strong></li>
+  <li><strong>OWASP Awareness & Secure Coding Programs</strong></li>
+</ul>
 
-- Advanced Cybersecurity Workshops  
-- Live Capture The Flag (CTF) Competitions  
-- Industry Expert Sessions  
-- OWASP Awareness & Secure Coding Programs  
-
-📢 Official announcements and registration details will be published soon.
+<p><strong>📢 Official announcements and registration details will be published soon.</strong></p>
 
 </details>
 
----
+<hr>
 
-## **Past Events ⏳**
+<h2 style="margin-top:25px;">Past Events ⏳</h2>
 
 <details>
-<summary><strong>🎯 HexaFalls – National Level Hackathon & CTF Series (2025)</strong></summary>
+<summary style="cursor:pointer; font-weight:bold; font-size:16px;">
+🎯 HexaFalls – National Level Hackathon & CTF Series (2025)
+</summary>
 
 <br>
 
-### 📍 Event Overview
+<h3>📍 Event Overview</h3>
 
-**Location:** JIS University  
-**Duration:** 32 Hours  
-**Status:** ✅ Successfully Completed  
+<p>
+<strong>Location:</strong> JIS University<br>
+<strong>Duration:</strong> 32 Hours<br>
+<strong>Status:</strong> <span style="color:green; font-weight:bold;">✅ Successfully Completed</span>
+</p>
 
-HexaFalls was a flagship 32-hour national-level hackathon conducted at JIS University, bringing together innovators, developers, and cybersecurity enthusiasts to build impactful technical solutions.
+<p>
+HexaFalls was a flagship 32-hour national-level hackathon conducted at JIS University,
+bringing together innovators, developers, and cybersecurity enthusiasts to build impactful technical solutions.
+</p>
 
-As part of this mega event, we hosted the **HexaFalls CTF Series (Capture The Flag)** to challenge participants in real-world cybersecurity scenarios.
+<p>
+As part of this mega event, we hosted the <strong>HexaFalls CTF Series (Capture The Flag)</strong>
+to challenge participants in real-world cybersecurity scenarios.
+</p>
 
-The competition emphasized:
+<p><strong>The competition emphasized:</strong></p>
 
-- Ethical Hacking  
-- Digital Forensics  
-- Logical Problem Solving  
-- Secure Coding & Vulnerability Analysis  
+<ul>
+  <li>Ethical Hacking</li>
+  <li>Digital Forensics</li>
+  <li>Logical Problem Solving</li>
+  <li>Secure Coding & Vulnerability Analysis</li>
+</ul>
 
----
+<hr>
 
-### 🏁 CTF Rounds Conducted
+<h3 style="margin-top:20px;">🏁 CTF Rounds Conducted</h3>
 
-| Title         | Agenda         | Location        | Date          | Time  | Status |
-|---------------|---------------|----------------|--------------|-------|--------|
-| HexaFalls CTF | CTF - Round 1 | JIS University | 28 June 2025 | 19:30 | ✅ Completed |
-| HexaFalls CTF | CTF - Round 2 | JIS University | 28 June 2025 | 02:00 | ✅ Completed |
-| HexaFalls CTF | CTF - Round 3 | JIS University | 29 June 2025 | 08:30 | ✅ Completed |
+<table style="width:100%; border-collapse:collapse; font-family:Arial, sans-serif; margin-top:15px;">
 
----
+  <thead>
+    <tr style="background-color:#0b3d91; color:white; text-align:left;">
+      <th style="padding:10px; border:1px solid #ddd;">Title</th>
+      <th style="padding:10px; border:1px solid #ddd;">Agenda</th>
+      <th style="padding:10px; border:1px solid #ddd;">Location</th>
+      <th style="padding:10px; border:1px solid #ddd;">Date</th>
+      <th style="padding:10px; border:1px solid #ddd;">Time</th>
+      <th style="padding:10px; border:1px solid #ddd;">Status</th>
+    </tr>
+  </thead>
 
-### 🌟 Event Highlights
+  <tbody>
 
-<p align="center">
+    <tr style="background-color:#f2f6fc;">
+      <td style="padding:10px; border:1px solid #ddd;"><strong>HexaFalls CTF</strong></td>
+      <td style="padding:10px; border:1px solid #ddd;">CTF - Round 1</td>
+      <td style="padding:10px; border:1px solid #ddd;">JIS University</td>
+      <td style="padding:10px; border:1px solid #ddd;">28 June 2025</td>
+      <td style="padding:10px; border:1px solid #ddd;">19:30</td>
+      <td style="padding:10px; border:1px solid #ddd; color:green;"><strong>✅ Completed</strong></td>
+    </tr>
+
+    <tr>
+      <td style="padding:10px; border:1px solid #ddd;"><strong>HexaFalls CTF</strong></td>
+      <td style="padding:10px; border:1px solid #ddd;">CTF - Round 2</td>
+      <td style="padding:10px; border:1px solid #ddd;">JIS University</td>
+      <td style="padding:10px; border:1px solid #ddd;">28 June 2025</td>
+      <td style="padding:10px; border:1px solid #ddd;">02:00</td>
+      <td style="padding:10px; border:1px solid #ddd; color:green;"><strong>✅ Completed</strong></td>
+    </tr>
+
+    <tr style="background-color:#f2f6fc;">
+      <td style="padding:10px; border:1px solid #ddd;"><strong>HexaFalls CTF</strong></td>
+      <td style="padding:10px; border:1px solid #ddd;">CTF - Round 3</td>
+      <td style="padding:10px; border:1px solid #ddd;">JIS University</td>
+      <td style="padding:10px; border:1px solid #ddd;">29 June 2025</td>
+      <td style="padding:10px; border:1px solid #ddd;">08:30</td>
+      <td style="padding:10px; border:1px solid #ddd; color:green;"><strong>✅ Completed</strong></td>
+    </tr>
+
+  </tbody>
+
+</table>
+<hr>
+
+<h3 style="margin-top:20px;">🌟 Event Highlights</h3>
+
+<p style="text-align:center;">
   <img src="https://raw.githubusercontent.com/OWASP/www-chapter-jis-university-student-chapter/main/assets/images/IMG_2793.JPG" width="30%" />
   <img src="https://raw.githubusercontent.com/OWASP/www-chapter-jis-university-student-chapter/main/assets/images/IMG_2853.JPG" width="30%" />
   <img src="https://raw.githubusercontent.com/OWASP/www-chapter-jis-university-student-chapter/main/assets/images/_MG_2825.JPG" width="30%" />
 </p>
 
-<p align="center">
+<p style="text-align:center;">
   <img src="https://raw.githubusercontent.com/OWASP/www-chapter-jis-university-student-chapter/main/assets/images/IMG_2699 (1).JPG" width="30%" />
   <img src="https://raw.githubusercontent.com/OWASP/www-chapter-jis-university-student-chapter/main/assets/images/IMG_20250704_143028.jpg" width="30%" />
   <img src="https://raw.githubusercontent.com/OWASP/www-chapter-jis-university-student-chapter/main/assets/images/IMG_2941.JPG" width="30%" />
@@ -87,4 +142,4 @@ The competition emphasized:
 
 </details>
 
----
+<hr>
