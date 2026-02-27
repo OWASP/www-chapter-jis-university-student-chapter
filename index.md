@@ -58,6 +58,6 @@ OWASP JIS University is a **student-led cybersecurity community** affiliated wit
 
 ---
 
-<p style="font-size: 2.5em; color: red; font-weight: bold; text-align: center; margin-top: 20px;">
-  OWASP JIS University Student Chapter-এ আপনাকে স্বাগতম 🙏🏼
+<p style="font-size: clamp(1.4rem, 5vw, 2.2rem); color: #d32f2f; font-weight: 700; text-align: center; margin: 20px 10px; line-height: 1.3;">
+  OWASP JIS University Student Chapter-এ আপনাকে স্বাগতম 🙏
 </p>
