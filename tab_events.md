@@ -1,3 +1,11 @@
+---
+title: Events
+layout: null
+tab: true
+order: 1
+tags: OWASP-JISU
+meetup-group: owasp-jisu
+---
 # Events
 
 Welcome to the Events section of OWASP JIS University Student Chapter.  
