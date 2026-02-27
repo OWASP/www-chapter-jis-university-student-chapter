@@ -1,20 +1,130 @@
-### Leaders
+<h2 style="margin-bottom:10px;">👥 Leadership Team</h2>
+<hr>
 
-* [Rahul Kamilya (Chapter Leader)](mailto:rahul.kamilya@owasp.org)
-* [Shreya Dutta (Chapter Leader)](mailto:shreya.dutta@owasp.org)
-* [Tanaya Das (Faculty Advisor)](mailto:tanaya.das@owasp.org)
+<h3 style="margin-top:20px;">🎯 Chapter Leadership</h3>
 
+<table style="width:100%; border-collapse:collapse; font-family:Arial, sans-serif; margin-top:15px;">
 
-### CORE Team
+  <thead>
+    <tr style="background-color:#4a4a4a; color:white; text-align:left;">
+      <th style="padding:10px; border:1px solid #ddd;">Name</th>
+      <th style="padding:10px; border:1px solid #ddd;">Role & Contact</th>
+    </tr>
+  </thead>
 
-* **Vivek Yadav** · Chapter Ops.  
-* **Sagnik Roy** · Technical Ops.  
-* **Sayuj Sur** · Ops. Associate  
-* **Anusha Mitra** · Ops. Coordinator  
-* **Shinjan Kundu** · Design Head  
-* **Sanchari Ganguly** · Design Associate  
-* **Ankit Dey** · Design Associate  
-* **Kritika Chakraborty** · Outreach Captain  
-* **Rashmi Pyne** · PR Coordinator  
-* **Divyanshu Jha** · PR Associate  
-* **Ankana Biswas** · Social Media  
+  <tbody>
+
+    <tr style="background-color:#f2f2f2;">
+      <td style="padding:10px; border:1px solid #ddd;"><strong>Rahul Kamilya</strong></td>
+      <td style="padding:10px; border:1px solid #ddd;">
+        Chapter Leader<br>
+        📧 <a href="mailto:rahul.kamilya@owasp.org">rahul.kamilya@owasp.org</a>
+      </td>
+    </tr>
+
+    <tr>
+      <td style="padding:10px; border:1px solid #ddd;"><strong>Shreya Dutta</strong></td>
+      <td style="padding:10px; border:1px solid #ddd;">
+        Chapter Leader<br>
+        📧 <a href="mailto:shreya.dutta@owasp.org">shreya.dutta@owasp.org</a>
+      </td>
+    </tr>
+
+    <tr style="background-color:#f2f2f2;">
+      <td style="padding:10px; border:1px solid #ddd;"><strong>Tanaya Das</strong></td>
+      <td style="padding:10px; border:1px solid #ddd;">
+        Faculty Advisor<br>
+        📧 <a href="mailto:tanaya.das@owasp.org">tanaya.das@owasp.org</a>
+      </td>
+    </tr>
+
+  </tbody>
+
+</table>
+
+<hr style="margin-top:30px;">
+
+<h2 style="margin-top:20px;">🚀 Core Team</h2>
+
+<p>Our Core Team drives operations, technical initiatives, outreach, and creative direction of the chapter.</p>
+
+<hr>
+
+<h3 style="margin-top:20px;">⚙️ Operations & Technical</h3>
+
+<table style="width:100%; border-collapse:collapse; font-family:Arial, sans-serif; margin-top:10px;">
+  <tbody>
+
+    <tr style="background-color:#f2f2f2;">
+      <td style="padding:10px; border:1px solid #ddd;"><strong>Vivek Yadav</strong></td>
+      <td style="padding:10px; border:1px solid #ddd;">Chapter Operations</td>
+    </tr>
+
+    <tr>
+      <td style="padding:10px; border:1px solid #ddd;"><strong>Sagnik Roy</strong></td>
+      <td style="padding:10px; border:1px solid #ddd;">Technical Operations</td>
+    </tr>
+
+    <tr style="background-color:#f2f2f2;">
+      <td style="padding:10px; border:1px solid #ddd;"><strong>Sayuj Sur</strong></td>
+      <td style="padding:10px; border:1px solid #ddd;">Operations Associate</td>
+    </tr>
+
+    <tr>
+      <td style="padding:10px; border:1px solid #ddd;"><strong>Anusha Mitra</strong></td>
+      <td style="padding:10px; border:1px solid #ddd;">Operations Coordinator</td>
+    </tr>
+
+  </tbody>
+</table>
+
+<h3 style="margin-top:30px;">🎨 Design & Creative</h3>
+
+<table style="width:100%; border-collapse:collapse; font-family:Arial, sans-serif; margin-top:10px;">
+  <tbody>
+
+    <tr style="background-color:#f2f2f2;">
+      <td style="padding:10px; border:1px solid #ddd;"><strong>Shinjan Kundu</strong></td>
+      <td style="padding:10px; border:1px solid #ddd;">Design Head</td>
+    </tr>
+
+    <tr>
+      <td style="padding:10px; border:1px solid #ddd;"><strong>Sanchari Ganguly</strong></td>
+      <td style="padding:10px; border:1px solid #ddd;">Design Associate</td>
+    </tr>
+
+    <tr style="background-color:#f2f2f2;">
+      <td style="padding:10px; border:1px solid #ddd;"><strong>Ankit Dey</strong></td>
+      <td style="padding:10px; border:1px solid #ddd;">Design Associate</td>
+    </tr>
+
+  </tbody>
+</table>
+
+<h3 style="margin-top:30px;">📢 Outreach & Communications</h3>
+
+<table style="width:100%; border-collapse:collapse; font-family:Arial, sans-serif; margin-top:10px;">
+  <tbody>
+
+    <tr style="background-color:#f2f2f2;">
+      <td style="padding:10px; border:1px solid #ddd;"><strong>Kritika Chakraborty</strong></td>
+      <td style="padding:10px; border:1px solid #ddd;">Outreach Captain</td>
+    </tr>
+
+    <tr>
+      <td style="padding:10px; border:1px solid #ddd;"><strong>Rashmi Pyne</strong></td>
+      <td style="padding:10px; border:1px solid #ddd;">PR Coordinator</td>
+    </tr>
+
+    <tr style="background-color:#f2f2f2;">
+      <td style="padding:10px; border:1px solid #ddd;"><strong>Divyanshu Jha</strong></td>
+      <td style="padding:10px; border:1px solid #ddd;">PR Associate</td>
+    </tr>
+
+    <tr>
+      <td style="padding:10px; border:1px solid #ddd;"><strong>Ankana Biswas</strong></td>
+      <td style="padding:10px; border:1px solid #ddd;">Social Media Lead</td>
+    </tr>
+
+  </tbody>
+</table>
