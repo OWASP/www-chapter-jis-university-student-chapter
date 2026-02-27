@@ -6,9 +6,6 @@ order: 2
 tags: OWASP-JISU
 ---
 
-<h2 style="margin-bottom:10px;">👥 Leadership Team</h2>
-<hr>
-
 <h3 style="margin-top:20px;">🎯 Chapter Leadership</h3>
 
 <table style="width:100%; border-collapse:collapse; font-family:Arial, sans-serif; margin-top:15px;">
@@ -16,7 +13,8 @@ tags: OWASP-JISU
   <thead>
     <tr style="background-color:#4a4a4a; color:white; text-align:left;">
       <th style="padding:10px; border:1px solid #ddd;">Name</th>
-      <th style="padding:10px; border:1px solid #ddd;">Role & Contact</th>
+      <th style="padding:10px; border:1px solid #ddd;">Role</th>
+      <th style="padding:10px; border:1px solid #ddd;">Contact</th>
     </tr>
   </thead>
 
@@ -24,43 +22,44 @@ tags: OWASP-JISU
 
     <tr style="background-color:#f2f2f2;">
       <td style="padding:10px; border:1px solid #ddd;"><strong>Rahul Kamilya</strong></td>
+      <td style="padding:10px; border:1px solid #ddd;">Chapter Leader</td>
       <td style="padding:10px; border:1px solid #ddd;">
-        Chapter Leader<br>
         📧 <a href="mailto:rahul.kamilya@owasp.org">rahul.kamilya@owasp.org</a>
       </td>
     </tr>
 
     <tr>
       <td style="padding:10px; border:1px solid #ddd;"><strong>Shreya Dutta</strong></td>
+      <td style="padding:10px; border:1px solid #ddd;">Chapter Leader</td>
       <td style="padding:10px; border:1px solid #ddd;">
-        Chapter Leader<br>
         📧 <a href="mailto:shreya.dutta@owasp.org">shreya.dutta@owasp.org</a>
       </td>
     </tr>
 
     <tr style="background-color:#f2f2f2;">
       <td style="padding:10px; border:1px solid #ddd;"><strong>Tanaya Das</strong></td>
+      <td style="padding:10px; border:1px solid #ddd;">Faculty Advisor</td>
       <td style="padding:10px; border:1px solid #ddd;">
-        Faculty Advisor<br>
         📧 <a href="mailto:tanaya.das@owasp.org">tanaya.das@owasp.org</a>
       </td>
     </tr>
 
   </tbody>
-
 </table>
 
-<hr style="margin-top:30px;">
-
-<h2 style="margin-top:20px;">🚀 Core Team</h2>
+<h2 style="margin-top:30px;">🚀 Core Team</h2>
 
 <p>Our Core Team drives operations, technical initiatives, outreach, and creative direction of the chapter.</p>
-
-<hr>
 
 <h3 style="margin-top:20px;">⚙️ Operations & Technical</h3>
 
 <table style="width:100%; border-collapse:collapse; font-family:Arial, sans-serif; margin-top:10px;">
+  <thead>
+    <tr style="background-color:#4a4a4a; color:white; text-align:left;">
+      <th style="padding:10px; border:1px solid #ddd;">Name</th>
+      <th style="padding:10px; border:1px solid #ddd;">Role</th>
+    </tr>
+  </thead>
   <tbody>
 
     <tr style="background-color:#f2f2f2;">
@@ -89,6 +88,12 @@ tags: OWASP-JISU
 <h3 style="margin-top:30px;">🎨 Design & Creative</h3>
 
 <table style="width:100%; border-collapse:collapse; font-family:Arial, sans-serif; margin-top:10px;">
+  <thead>
+    <tr style="background-color:#4a4a4a; color:white; text-align:left;">
+      <th style="padding:10px; border:1px solid #ddd;">Name</th>
+      <th style="padding:10px; border:1px solid #ddd;">Role</th>
+    </tr>
+  </thead>
   <tbody>
 
     <tr style="background-color:#f2f2f2;">
@@ -112,6 +117,12 @@ tags: OWASP-JISU
 <h3 style="margin-top:30px;">📢 Outreach & Communications</h3>
 
 <table style="width:100%; border-collapse:collapse; font-family:Arial, sans-serif; margin-top:10px;">
+  <thead>
+    <tr style="background-color:#4a4a4a; color:white; text-align:left;">
+      <th style="padding:10px; border:1px solid #ddd;">Name</th>
+      <th style="padding:10px; border:1px solid #ddd;">Role</th>
+    </tr>
+  </thead>
   <tbody>
 
     <tr style="background-color:#f2f2f2;">
@@ -137,6 +148,6 @@ tags: OWASP-JISU
   </tbody>
 </table>
 
-> <p align="center"> Organizers are committed to fostering cybersecurity awareness and building a strong community of security enthusiasts 🛡️ 
-
----
+<p style="text-align:center; margin-top:30px;">
+Organizers are committed to fostering cybersecurity awareness and building a strong community of security enthusiasts 🛡️
+</p>
