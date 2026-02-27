@@ -43,7 +43,7 @@ Click to View Upcoming Events
 
 <details>
 <summary style="cursor:pointer; font-weight:bold; font-size:16px;">
-🎯 HexaFalls – National Level Hackathon & CTF Series (2025)
+28 to 29 June 2025 - HexaFalls – National Level Hackathon & CTF Series
 </summary>
 
 <br>
@@ -82,7 +82,7 @@ to challenge participants in real-world cybersecurity scenarios.
 <table style="width:100%; border-collapse:collapse; font-family:Arial, sans-serif; margin-top:15px;">
 
   <thead>
-    <tr style="background-color:#0b3d91; color:white; text-align:left;">
+    <tr style="background-color:#4a4a4a; color:white; text-align:left;">
       <th style="padding:10px; border:1px solid #ddd;">Title</th>
       <th style="padding:10px; border:1px solid #ddd;">Agenda</th>
       <th style="padding:10px; border:1px solid #ddd;">Location</th>
