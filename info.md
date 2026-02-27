@@ -6,5 +6,5 @@
 
 ### Social Handles
 
-[![Instagram](https://img.shields.io/badge/Instagram-@owasp.jisu-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/owasp.jisu/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-OWASP_JISU-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/owasp-student-chapter-jis-university)
+[![Instagram](https://img.shields.io/badge/CONNECT-Instagram___-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/owasp.jisu/)
+[![LinkedIn](https://img.shields.io/badge/CONNECT-LinkedIn____-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/owasp-student-chapter-jis-university)
