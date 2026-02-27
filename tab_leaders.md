@@ -40,24 +40,6 @@ tags: OWASP-JISU
 
 <h2 style="margin-top:40px;">🚀 CORE Team</h2>
 
-<div style="margin-top:15px; padding:15px; background-color:#ffffff; border:1px solid #e0e0e0; font-family:Arial, sans-serif; line-height:1.8;">
-  <strong>Vivek Yadav</strong> · Chapter Ops.<br>
-  <strong>Sagnik Roy</strong> · Technical Ops.<br>
-  <strong>Sayuj Sur</strong> · Ops. Associate<br>
-  <strong>Anusha Mitra</strong> · Ops. Coordinator<br>
-  <strong>Shinjan Kundu</strong> · Design Head<br>
-  <strong>Sanchari Ganguly</strong> · Design Associate<br>
-  <strong>Ankit Dey</strong> · Design Associate<br>
-  <strong>Kritika Chakraborty</strong> · Outreach Captain<br>
-  <strong>Rashmi Pyne</strong> · PR Coordinator<br>
-  <strong>Divyanshu Jha</strong> · PR Associate<br>
-  <strong>Ankana Biswas</strong> · Social Media
-</div>
-
-<p style="margin-top:20px;">
-Our Core Team drives operations, technical initiatives, outreach, and creative direction of the chapter.
-</p>
-
 <!-- OPERATIONS & TECHNICAL -->
 <h3 style="margin-top:30px;">⚙️ Operations & Technical</h3>
 
