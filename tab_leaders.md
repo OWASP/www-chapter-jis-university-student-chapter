@@ -5,7 +5,7 @@ tab: true
 order: 2
 tags: OWASP-JISU
 ---
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 <h3 style="margin-top:20px;">🎯 Chapter Leadership</h3>
 
 <table style="width:100%; border-collapse:collapse; font-family:Arial, sans-serif; margin-top:15px;">
@@ -58,91 +58,74 @@ tags: OWASP-JISU
     <tr style="background-color:#4a4a4a; color:white; text-align:left;">
       <th style="padding:10px; border:1px solid #ddd;">Name</th>
       <th style="padding:10px; border:1px solid #ddd;">Role</th>
+      <th style="padding:10px; border:1px solid #ddd;">Socials</th>
     </tr>
   </thead>
+
   <tbody>
 
     <tr style="background-color:#f2f2f2;">
       <td style="padding:10px; border:1px solid #ddd;"><strong>Vivek Yadav</strong></td>
       <td style="padding:10px; border:1px solid #ddd;">Chapter Operations</td>
+      <td style="padding:10px; border:1px solid #ddd; font-size:18px;">
+        <a href="#" target="_blank" rel="noopener noreferrer" style="margin-right:12px; color:#E4405F;">
+          <i class="fab fa-instagram"></i>
+        </a>
+        <a href="#" target="_blank" rel="noopener noreferrer" style="margin-right:12px; color:#0A66C2;">
+          <i class="fab fa-linkedin"></i>
+        </a>
+        <a href="#" target="_blank" rel="noopener noreferrer" style="color:#333;">
+          <i class="fab fa-github"></i>
+        </a>
+      </td>
     </tr>
 
     <tr>
       <td style="padding:10px; border:1px solid #ddd;"><strong>Sagnik Roy</strong></td>
       <td style="padding:10px; border:1px solid #ddd;">Technical Operations</td>
+      <td style="padding:10px; border:1px solid #ddd; font-size:18px;">
+        <a href="#" target="_blank" rel="noopener noreferrer" style="margin-right:12px; color:#E4405F;">
+          <i class="fab fa-instagram"></i>
+        </a>
+        <a href="#" target="_blank" rel="noopener noreferrer" style="margin-right:12px; color:#0A66C2;">
+          <i class="fab fa-linkedin"></i>
+        </a>
+        <a href="#" target="_blank" rel="noopener noreferrer" style="color:#333;">
+          <i class="fab fa-github"></i>
+        </a>
+      </td>
     </tr>
 
     <tr style="background-color:#f2f2f2;">
       <td style="padding:10px; border:1px solid #ddd;"><strong>Sayuj Sur</strong></td>
       <td style="padding:10px; border:1px solid #ddd;">Operations Associate</td>
+      <td style="padding:10px; border:1px solid #ddd; font-size:18px;">
+        <a href="#" target="_blank" rel="noopener noreferrer" style="margin-right:12px; color:#E4405F;">
+          <i class="fab fa-instagram"></i>
+        </a>
+        <a href="#" target="_blank" rel="noopener noreferrer" style="margin-right:12px; color:#0A66C2;">
+          <i class="fab fa-linkedin"></i>
+        </a>
+        <a href="#" target="_blank" rel="noopener noreferrer" style="color:#333;">
+          <i class="fab fa-github"></i>
+        </a>
+      </td>
     </tr>
 
     <tr>
       <td style="padding:10px; border:1px solid #ddd;"><strong>Anusha Mitra</strong></td>
       <td style="padding:10px; border:1px solid #ddd;">Operations Coordinator</td>
-    </tr>
-
-  </tbody>
-</table>
-
-<h3 style="margin-top:30px;">🎨 Design & Creative</h3>
-
-<table style="width:100%; border-collapse:collapse; font-family:Arial, sans-serif; margin-top:10px;">
-  <thead>
-    <tr style="background-color:#4a4a4a; color:white; text-align:left;">
-      <th style="padding:10px; border:1px solid #ddd;">Name</th>
-      <th style="padding:10px; border:1px solid #ddd;">Role</th>
-    </tr>
-  </thead>
-  <tbody>
-
-    <tr style="background-color:#f2f2f2;">
-      <td style="padding:10px; border:1px solid #ddd;"><strong>Shinjan Kundu</strong></td>
-      <td style="padding:10px; border:1px solid #ddd;">Design Head</td>
-    </tr>
-
-    <tr>
-      <td style="padding:10px; border:1px solid #ddd;"><strong>Sanchari Ganguly</strong></td>
-      <td style="padding:10px; border:1px solid #ddd;">Design Associate</td>
-    </tr>
-
-    <tr style="background-color:#f2f2f2;">
-      <td style="padding:10px; border:1px solid #ddd;"><strong>Ankit Dey</strong></td>
-      <td style="padding:10px; border:1px solid #ddd;">Design Associate</td>
-    </tr>
-
-  </tbody>
-</table>
-
-<h3 style="margin-top:30px;">📢 Outreach & Communications</h3>
-
-<table style="width:100%; border-collapse:collapse; font-family:Arial, sans-serif; margin-top:10px;">
-  <thead>
-    <tr style="background-color:#4a4a4a; color:white; text-align:left;">
-      <th style="padding:10px; border:1px solid #ddd;">Name</th>
-      <th style="padding:10px; border:1px solid #ddd;">Role</th>
-    </tr>
-  </thead>
-  <tbody>
-
-    <tr style="background-color:#f2f2f2;">
-      <td style="padding:10px; border:1px solid #ddd;"><strong>Kritika Chakraborty</strong></td>
-      <td style="padding:10px; border:1px solid #ddd;">Outreach Captain</td>
-    </tr>
-
-    <tr>
-      <td style="padding:10px; border:1px solid #ddd;"><strong>Rashmi Pyne</strong></td>
-      <td style="padding:10px; border:1px solid #ddd;">PR Coordinator</td>
-    </tr>
-
-    <tr style="background-color:#f2f2f2;">
-      <td style="padding:10px; border:1px solid #ddd;"><strong>Divyanshu Jha</strong></td>
-      <td style="padding:10px; border:1px solid #ddd;">PR Associate</td>
-    </tr>
-
-    <tr>
-      <td style="padding:10px; border:1px solid #ddd;"><strong>Ankana Biswas</strong></td>
-      <td style="padding:10px; border:1px solid #ddd;">Social Media Lead</td>
+      <td style="padding:10px; border:1px solid #ddd; font-size:18px;">
+        <a href="#" target="_blank" rel="noopener noreferrer" style="margin-right:12px; color:#E4405F;">
+          <i class="fab fa-instagram"></i>
+        </a>
+        <a href="#" target="_blank" rel="noopener noreferrer" style="margin-right:12px; color:#0A66C2;">
+          <i class="fab fa-linkedin"></i>
+        </a>
+        <a href="#" target="_blank" rel="noopener noreferrer" style="color:#333;">
+          <i class="fab fa-github"></i>
+        </a>
+      </td>
     </tr>
 
   </tbody>
