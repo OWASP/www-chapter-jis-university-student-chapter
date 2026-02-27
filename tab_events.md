@@ -63,11 +63,11 @@ The competition emphasized:
 
 ### 🏁 CTF Rounds Conducted
 
-| Title            | Agenda         | Location       | Date        | Time  | Status |
-|------------------|---------------|----------------|------------|-------|--------|
-| HexaFalls CTF    | CTF - Round 1 | JIS University | 28 June 2025 | 19:30 | ✅ Completed |
-| HexaFalls CTF    | CTF - Round 2 | JIS University | 28 June 2025 | 02:00 | ✅ Completed |
-| HexaFalls CTF    | CTF - Round 3 | JIS University | 29 June 2025 | 08:30 | ✅ Completed |
+| Title         | Agenda         | Location        | Date          | Time  | Status |
+|---------------|---------------|----------------|--------------|-------|--------|
+| HexaFalls CTF | CTF - Round 1 | JIS University | 28 June 2025 | 19:30 | ✅ Completed |
+| HexaFalls CTF | CTF - Round 2 | JIS University | 28 June 2025 | 02:00 | ✅ Completed |
+| HexaFalls CTF | CTF - Round 3 | JIS University | 29 June 2025 | 08:30 | ✅ Completed |
 
 ---
 
@@ -86,3 +86,5 @@ The competition emphasized:
 </p>
 
 </details>
+
+---
