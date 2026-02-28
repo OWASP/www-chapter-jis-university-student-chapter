@@ -39,15 +39,33 @@ OWASP JIS University is a **student-led cybersecurity community** affiliated wit
  
 ## 🧑🏻‍💻 Become a Member  
 <br>
+<style>
+  .register-btn {
+    display: inline-block;
+    padding: 8px 14px;
+    background: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: 600;
+    transition: background-color 0.2s ease, transform 0.2s ease;
+  }
+
+  .register-btn:hover,
+  .register-btn:focus-visible {
+    background: #005fd1;
+    transform: translateY(-1px);
+    outline: none;
+  }
+
+  .register-btn:active {
+    transform: translateY(0);
+  }
+</style>
 <p align="center">
-  <!-- Join OWASP Button -->
-  <a href="https://chat.whatsapp.com/KaDR5HpXz2v7VVjvBIk61Y" target="_blank" style="margin-right: 15px;">
-    <img src="https://img.shields.io/badge/Join_OWASP_JISU-blue?style=for-the-badge&logo=owasp&logoColor=black&border_color=black" alt="Join OWASP" style="border: 2px solid black; padding: 5px; border-radius: 8px;">
+  <a href="https://chat.whatsapp.com/KaDR5HpXz2v7VVjvBIk61Y" target="_blank" rel="noopener noreferrer" class="register-btn" title="Join OWASP JISU" aria-label="Join OWASP JISU">
+    Join OWASP JISU
   </a>
-  <!-- Meetup Group Button -->
-  <!-- &nbsp;<a href="https://www.meetup.com/owasp-jisu/" target="_blank">
-    <img src="https://img.shields.io/badge/Join_Meetup_Group-red?style=for-the-badge&logo=meetup&logoColor=white&border_color=black" alt="Visit Meetup" style="border: 2px solid black; padding: 5px; border-radius: 8px;">
-  </a> -->
 </p>
 <br>
 

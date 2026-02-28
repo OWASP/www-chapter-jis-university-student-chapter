@@ -9,7 +9,71 @@ tags: OWASP-JISU
 <!-- Font Awesome Icons -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
-<h3 style="margin-top:20px;">🎯 Chapter Leadership</h3>
+<style>
+  @media (max-width: 768px) {
+    table {
+      font-size: 14px !important;
+    }
+    
+    table th, table td {
+      padding: 8px !important;
+      display: block !important;
+      width: 100% !important;
+      text-align: left !important;
+      border: none !important;
+    }
+    
+    table thead {
+      display: none;
+    }
+    
+    table tbody tr {
+      display: block !important;
+      margin-bottom: 15px;
+      border: 1px solid #e0e0e0 !important;
+      padding: 12px;
+      background-color: #f9f9f9 !important;
+    }
+    
+    table tbody tr:nth-child(even) {
+      background-color: #ffffff !important;
+    }
+    
+    table td::before {
+      content: attr(data-label);
+      font-weight: bold;
+      display: block;
+      margin-bottom: 5px;
+      color: #333;
+    }
+    
+    table td:not(:first-child) {
+      margin-top: 10px;
+    }
+    
+    .table-wrapper {
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    table {
+      font-size: 12px !important;
+    }
+    
+    table th, table td {
+      padding: 6px !important;
+    }
+    
+    table tbody tr {
+      padding: 8px !important;
+      margin-bottom: 12px;
+    }
+  }
+</style>
+
+<h2 style="margin-top:20px;">Chapter Leaders 🎯</h2>
 
 <table style="width:100%; border-collapse:collapse; font-family:Arial, sans-serif; margin-top:15px; background-color:#ffffff;">
   <thead>
@@ -21,27 +85,27 @@ tags: OWASP-JISU
   </thead>
   <tbody>
     <tr style="background-color:#f9f9f9;">
-      <td style="padding:12px; border:1px solid #e0e0e0;"><strong>Rahul Kamilya</strong></td>
-      <td style="padding:12px; border:1px solid #e0e0e0;">Chapter Leader</td>
-      <td style="padding:12px; border:1px solid #e0e0e0;">📧 <a href="mailto:rahul.kamilya@owasp.org">rahul.kamilya@owasp.org</a></td>
+      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Name"><strong>Rahul Kamilya</strong></td>
+      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">Chapter Leader</td>
+      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Contact">📧 <a href="mailto:rahul.kamilya@owasp.org">rahul.kamilya@owasp.org</a></td>
     </tr>
     <tr>
-      <td style="padding:12px; border:1px solid #e0e0e0;"><strong>Shreya Dutta</strong></td>
-      <td style="padding:12px; border:1px solid #e0e0e0;">Chapter Leader</td>
-      <td style="padding:12px; border:1px solid #e0e0e0;">📧 <a href="mailto:shreya.dutta@owasp.org">shreya.dutta@owasp.org</a></td>
+      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Name"><strong>Shreya Dutta</strong></td>
+      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">Chapter Leader</td>
+      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Contact">📧 <a href="mailto:shreya.dutta@owasp.org">shreya.dutta@owasp.org</a></td>
     </tr>
     <tr style="background-color:#f9f9f9;">
-      <td style="padding:12px; border:1px solid #e0e0e0;"><strong>Tanaya Das</strong></td>
-      <td style="padding:12px; border:1px solid #e0e0e0;">Faculty Advisor</td>
-      <td style="padding:12px; border:1px solid #e0e0e0;">📧 <a href="mailto:tanaya.das@owasp.org">tanaya.das@owasp.org</a></td>
+      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Name"><strong>Tanaya Das</strong></td>
+      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">Faculty Advisor</td>
+      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Contact">📧 <a href="mailto:tanaya.das@owasp.org">tanaya.das@owasp.org</a></td>
     </tr>
   </tbody>
 </table>
 
-<h2 style="margin-top:40px;">🚀 CORE Team</h2>
+<h2 style="margin-top:40px;">CORE Team 🚀</h2>
 
 <!-- OPERATIONS -->
-<h3 style="margin-top:30px;">⚙️ Operations & Technical</h3>
+<h3 style="margin-top:30px;">Operations & Technical ⚙️</h3>
 
 <table style="width:100%; border-collapse:collapse; font-family:Arial, sans-serif; margin-top:10px; background-color:#ffffff;">
   <thead>
@@ -53,36 +117,36 @@ tags: OWASP-JISU
   </thead>
   <tbody>
     <tr style="background-color:#f9f9f9;">
-      <td style="padding:12px; border:1px solid #e0e0e0;"><strong>Vivek Yadav</strong></td>
-      <td style="padding:12px; border:1px solid #e0e0e0;">Chapter Ops.</td>
-      <td style="padding:12px; border:1px solid #e0e0e0; font-size:18px;">
+      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Name"><strong>Vivek Yadav</strong></td>
+      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">Chapter Ops.</td>
+      <td style="padding:12px; border:1px solid #e0e0e0; font-size:18px;" data-label="Socials">
         <a href="#" target="_blank" style="color:#333;"><i class="fab fa-instagram"></i></a>
         <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-linkedin"></i></a>
         <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
       </td>
     </tr>
     <tr>
-      <td style="padding:12px; border:1px solid #e0e0e0;"><strong>Sagnik Roy</strong></td>
-      <td style="padding:12px; border:1px solid #e0e0e0;">Technical Ops.</td>
-      <td style="padding:12px; border:1px solid #e0e0e0; font-size:18px;">
+      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Name"><strong>Sagnik Roy</strong></td>
+      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">Technical Ops.</td>
+      <td style="padding:12px; border:1px solid #e0e0e0; font-size:18px;" data-label="Socials">
         <a href="#" target="_blank" style="color:#333;"><i class="fab fa-instagram"></i></a>
         <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-linkedin"></i></a>
         <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
       </td>
     </tr>
     <tr style="background-color:#f9f9f9;">
-      <td style="padding:12px; border:1px solid #e0e0e0;"><strong>Sayuj Sur</strong></td>
-      <td style="padding:12px; border:1px solid #e0e0e0;">Ops. Associate</td>
-      <td style="padding:12px; border:1px solid #e0e0e0; font-size:18px;">
+      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Name"><strong>Sayuj Sur</strong></td>
+      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">Ops. Associate</td>
+      <td style="padding:12px; border:1px solid #e0e0e0; font-size:18px;" data-label="Socials">
         <a href="#" target="_blank" style="color:#333;"><i class="fab fa-instagram"></i></a>
         <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-linkedin"></i></a>
         <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
       </td>
     </tr>
     <tr>
-      <td style="padding:12px; border:1px solid #e0e0e0;"><strong>Anusha Mitra</strong></td>
-      <td style="padding:12px; border:1px solid #e0e0e0;">Ops. Coordinator</td>
-      <td style="padding:12px; border:1px solid #e0e0e0; font-size:18px;">
+      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Name"><strong>Anusha Mitra</strong></td>
+      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">Ops. Coordinator</td>
+      <td style="padding:12px; border:1px solid #e0e0e0; font-size:18px;" data-label="Socials">
         <a href="#" target="_blank" style="color:#333;"><i class="fab fa-instagram"></i></a>
         <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-linkedin"></i></a>
         <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
@@ -92,7 +156,7 @@ tags: OWASP-JISU
 </table>
 
 <!-- DESIGN -->
-<h3 style="margin-top:30px;">🎨 Design & Creative</h3>
+<h3 style="margin-top:30px;">Design & Creative 🎨</h3>
 
 <table style="width:100%; border-collapse:collapse; font-family:Arial, sans-serif; margin-top:10px; background-color:#ffffff;">
   <thead>
@@ -104,9 +168,9 @@ tags: OWASP-JISU
   </thead>
   <tbody>
     <tr style="background-color:#f9f9f9;">
-      <td style="padding:12px; border:1px solid #e0e0e0;"><strong>Shinjan Kundu</strong></td>
-      <td style="padding:12px; border:1px solid #e0e0e0;">Design Head</td>
-      <td style="padding:12px; border:1px solid #e0e0e0; font-size:18px;">
+      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Name"><strong>Shinjan Kundu</strong></td>
+      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">Design Head</td>
+      <td style="padding:12px; border:1px solid #e0e0e0; font-size:18px;" data-label="Socials">
         <a href="#" target="_blank" style="color:#333;"><i class="fab fa-instagram"></i></a>
         <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-linkedin"></i></a>
         <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
@@ -114,9 +178,9 @@ tags: OWASP-JISU
     </tr>
 
     <tr>
-      <td style="padding:12px; border:1px solid #e0e0e0;"><strong>Sanchari Ganguly</strong></td>
-      <td style="padding:12px; border:1px solid #e0e0e0;">Design Associate</td>
-      <td style="padding:12px; border:1px solid #e0e0e0; font-size:18px;">
+      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Name"><strong>Sanchari Ganguly</strong></td>
+      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">Design Associate</td>
+      <td style="padding:12px; border:1px solid #e0e0e0; font-size:18px;" data-label="Socials">
         <a href="#" target="_blank" style="color:#333;"><i class="fab fa-instagram"></i></a>
         <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-linkedin"></i></a>
         <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
@@ -124,9 +188,9 @@ tags: OWASP-JISU
     </tr>
 
     <tr style="background-color:#f9f9f9;">
-      <td style="padding:12px; border:1px solid #e0e0e0;"><strong>Ankit Dey</strong></td>
-      <td style="padding:12px; border:1px solid #e0e0e0;">Design Associate</td>
-      <td style="padding:12px; border:1px solid #e0e0e0; font-size:18px;">
+      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Name"><strong>Ankit Dey</strong></td>
+      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">Design Associate</td>
+      <td style="padding:12px; border:1px solid #e0e0e0; font-size:18px;" data-label="Socials">
         <a href="#" target="_blank" style="color:#333;"><i class="fab fa-instagram"></i></a>
         <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-linkedin"></i></a>
         <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
@@ -136,7 +200,7 @@ tags: OWASP-JISU
 </table>
 
 <!-- OUTREACH -->
-<h3 style="margin-top:30px;">📢 Outreach & Communications</h3>
+<h3 style="margin-top:30px;">Outreach & Communications 📢</h3>
 
 <table style="width:100%; border-collapse:collapse; font-family:Arial, sans-serif; margin-top:10px; background-color:#ffffff;">
   <thead>
@@ -148,9 +212,9 @@ tags: OWASP-JISU
   </thead>
   <tbody>
     <tr style="background-color:#f9f9f9;">
-      <td style="padding:12px; border:1px solid #e0e0e0;"><strong>Kritika Chakraborty</strong></td>
-      <td style="padding:12px; border:1px solid #e0e0e0;">Outreach Captain</td>
-      <td style="padding:12px; border:1px solid #e0e0e0; font-size:18px;">
+      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Name"><strong>Kritika Chakraborty</strong></td>
+      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">Outreach Captain</td>
+      <td style="padding:12px; border:1px solid #e0e0e0; font-size:18px;" data-label="Socials">
         <a href="#" target="_blank" style="color:#333;"><i class="fab fa-instagram"></i></a>
         <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-linkedin"></i></a>
         <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
@@ -158,9 +222,9 @@ tags: OWASP-JISU
     </tr>
 
     <tr>
-      <td style="padding:12px; border:1px solid #e0e0e0;"><strong>Rashmi Pyne</strong></td>
-      <td style="padding:12px; border:1px solid #e0e0e0;">PR Coordinator</td>
-      <td style="padding:12px; border:1px solid #e0e0e0; font-size:18px;">
+      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Name"><strong>Rashmi Pyne</strong></td>
+      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">PR Coordinator</td>
+      <td style="padding:12px; border:1px solid #e0e0e0; font-size:18px;" data-label="Socials">
         <a href="#" target="_blank" style="color:#333;"><i class="fab fa-instagram"></i></a>
         <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-linkedin"></i></a>
         <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
@@ -168,9 +232,9 @@ tags: OWASP-JISU
     </tr>
 
     <tr style="background-color:#f9f9f9;">
-      <td style="padding:12px; border:1px solid #e0e0e0;"><strong>Divyanshu Jha</strong></td>
-      <td style="padding:12px; border:1px solid #e0e0e0;">PR Associate</td>
-      <td style="padding:12px; border:1px solid #e0e0e0; font-size:18px;">
+      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Name"><strong>Divyanshu Jha</strong></td>
+      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">PR Associate</td>
+      <td style="padding:12px; border:1px solid #e0e0e0; font-size:18px;" data-label="Socials">
         <a href="#" target="_blank" style="color:#333;"><i class="fab fa-instagram"></i></a>
         <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-linkedin"></i></a>
         <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
@@ -178,9 +242,9 @@ tags: OWASP-JISU
     </tr>
 
     <tr>
-      <td style="padding:12px; border:1px solid #e0e0e0;"><strong>Ankana Biswas</strong></td>
-      <td style="padding:12px; border:1px solid #e0e0e0;">Social Media</td>
-      <td style="padding:12px; border:1px solid #e0e0e0; font-size:18px;">
+      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Name"><strong>Ankana Biswas</strong></td>
+      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">Social Media</td>
+      <td style="padding:12px; border:1px solid #e0e0e0; font-size:18px;" data-label="Socials">
         <a href="#" target="_blank" style="color:#333;"><i class="fab fa-instagram"></i></a>
         <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-linkedin"></i></a>
         <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>

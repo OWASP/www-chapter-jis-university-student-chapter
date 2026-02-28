@@ -15,14 +15,7 @@ Here you’ll find details about our upcoming engagements and successfully condu
 
 <hr>
 
-<h2 style="margin-top:25px;">Upcoming Events 🚀</h2>
-
-<details>
-<summary style="cursor:pointer; font-weight:bold; font-size:16px;">
-Click to View Upcoming Events
-</summary>
-
-<br>
+<h2 style="margin-top:25px;">Upcoming Events 🗓️</h2>
 
 <h3>🚀 Events Are Coming Soon!</h3>
 
@@ -34,8 +27,6 @@ Click to View Upcoming Events
 </ul>
 
 <p><strong>📢 Official announcements and registration details will be published soon.</strong></p>
-
-</details>
 
 <hr>
 

@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/OWASP/www-chapter-jis-university-student-chapter/main/assets/images/jisulogo-3.png" width="150" height="150">
+<img src="assets/images/WELCOME (2).png">
  
-**Official Website: ➡️** [jisuniversity.ac.in](https://jisuniversity.ac.in) 
+**College Website: ➡️** [jisuniversity.ac.in](https://jisuniversity.ac.in) 
 
 **JIS University**, located in **West Bengal, India**, is a premier institution committed to academic excellence, innovation, and research. Established to provide **world-class education**, the university focuses on **multidisciplinary learning, industry-oriented programs, and holistic student development**.  
 
