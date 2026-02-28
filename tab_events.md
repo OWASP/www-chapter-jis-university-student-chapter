@@ -89,7 +89,7 @@ We're excited to announce an upcoming event featuring:
 
 <p>
 <strong>📅 When:</strong> Last week of March or First week of April<br>
-<strong>🎯 Stay tuned for the update!</strong>
+<strong>🟢 Stay tuned for the update!</strong>
 </p>
 
 <p style="padding:12px; background-color:#f0f8ff; border-left:4px solid #007bff; margin-top:15px;">
@@ -146,6 +146,16 @@ This intensive 4-hour workshop focused on teaching participants how to audit cod
 
 </table>
 
+<hr>
+
+<h3 style="margin-top:20px;">🌟 Event Highlights</h3>
+
+<p style="text-align:center;">
+  <img src="assets/GDG_x_OWASP/Sagnik_GDG.jpeg" width="30%" style="height:250px; object-fit:cover;" />
+  <img src="assets/GDG_x_OWASP/CTF_GDG.jpeg" width="30%" style="height:250px; object-fit:cover;" />
+  <img src="assets/GDG_x_OWASP/Team_GDG.jpeg" width="30%" style="height:250px; object-fit:cover;" />
+</p>
+
 </details>
 
 <hr>
@@ -199,6 +209,16 @@ As part of this event, we organized an <strong>OWASP Speaker Session</strong> to
   </tbody>
 
 </table>
+
+<hr>
+
+<h3 style="margin-top:20px;">🌟 Event Highlights</h3>
+
+<p style="text-align:center;">
+  <img src="assets/Codesprint_x_OWASP/codesprints_random_click.jpeg" width="30%" style="height:250px; object-fit:cover;" />
+  <img src="assets/Codesprint_x_OWASP/shreya_explains_owasp.jpeg" width="30%" style="height:250px; object-fit:cover;" />
+  <img src="assets/Codesprint_x_OWASP/codesprint_participents.jpeg" width="30%" style="height:250px; object-fit:cover;" />
+</p>
 
 </details>
 
