@@ -82,9 +82,9 @@ We're excited to announce an upcoming event featuring:
 </p>
 
 <ul>
-  <li><strong>New CORE Team Introduction</strong> - Meet the leadership driving OWASP JISU forward</li>
-  <li><strong>Expert Speaker Session</strong> - Learn from industry professionals on cutting-edge security topics</li>
-  <li><strong>CTF & Quiz Competition</strong> - Test your cybersecurity skills and win exciting prizes</li>
+  <li><strong>New CORE Team Introduction</strong></li>
+  <li><strong>Expert Speaker Session</strong></li>
+  <li><strong>CTF & Quiz Competition</strong></li>
 </ul>
 
 <p>

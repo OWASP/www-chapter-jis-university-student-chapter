@@ -1,8 +1,12 @@
-<img src="assets/images/WELCOME (2).png">
- 
-**College Website: ➡️** [JIS University](https://jisuniversity.ac.in) 
+<img src="assets/Special_Events/holi2026.png">
 
-**JIS University**, located in **West Bengal, India**, is a premier institution committed to academic excellence, innovation, and research. Established to provide **world-class education**, the university focuses on **multidisciplinary learning, industry-oriented programs, and holistic student development**.  
+**OWASP JIS University Chapter wishes you a vibrant and joyful Holi !**
+
+**May this festival of colors bring happiness, safety, and prosperity to your lives.**
+ 
+<!-- **College Website: ➡️** [JIS University](https://jisuniversity.ac.in) 
+
+**JIS University**, located in **West Bengal, India**, is a premier institution committed to academic excellence, innovation, and research. Established to provide **world-class education**, the university focuses on **multidisciplinary learning, industry-oriented programs, and holistic student development**.   -->
 
 ### Social Handles
 
