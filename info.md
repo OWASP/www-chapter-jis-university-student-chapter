@@ -1,8 +1,8 @@
-<img src="assets/Special_Events/holi2026.png">
+<img src="assets/Special_Events/womens_day.png">
 
-**OWASP JIS University Chapter wishes you a vibrant and joyful Holi !**
+**OWASP JIS University Chapter wishes everyone a meaningful and inspiring International Women's Day !**
 
-**May this festival of colors bring happiness, safety, and prosperity to your lives.**
+**Celebrating the strength, achievements, and limitless potential of women everywhere.**
  
 <!-- **College Website: ➡️** [JIS University](https://jisuniversity.ac.in) 
 
