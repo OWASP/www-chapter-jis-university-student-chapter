@@ -191,9 +191,9 @@ tags: OWASP-JISU
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Name"><strong>Ankit Dey</strong></td>
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">Design Associate</td>
       <td style="padding:12px; border:1px solid #e0e0e0; font-size:18px;" data-label="Socials">
-        <a href="#" target="_blank" style="color:#333;"><i class="fab fa-instagram"></i></a>
-        <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-linkedin"></i></a>
-        <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
+        <a href="https://www.instagram.com/ig_ankit_95" target="_blank" style="color:#333;"><i class="fab fa-instagram"></i></a>
+        <a href="https://in.linkedin.com/in/ankitdey06" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-linkedin"></i></a>
+        <a href="https://github.com/nonsense3" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
       </td>
     </tr>
   </tbody>
