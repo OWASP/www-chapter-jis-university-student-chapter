@@ -88,13 +88,22 @@ We're excited to announce an upcoming event featuring:
 </ul>
 
 <p>
-<strong>📅 When:</strong> Last week of March or First week of April<br>
-<strong>🟢 Stay tuned for the update!</strong>
+<strong>📅 When:</strong> 31st March, 2026<br>
+<strong>🔴 Event registration is live!</strong>
 </p>
 
-<p style="padding:12px; background-color:#f0f8ff; border-left:4px solid #007bff; margin-top:15px;">
-📢 <strong>Registration form will be live here shortly.</strong> Follow our updates to secure your spot!
-</p>
+<div style="margin-top:15px;">
+  <a
+    href="https://luma.com/event/evt-YqReJQ7VrtJqGVc"
+    class="luma-checkout--button"
+    data-luma-action="checkout"
+    data-luma-event-id="evt-YqReJQ7VrtJqGVc"
+  >
+    Register for Event
+  </a>
+
+  <script id="luma-checkout" src="https://embed.lu.ma/checkout-button.js"></script>
+</div>
 
 <hr>
 
