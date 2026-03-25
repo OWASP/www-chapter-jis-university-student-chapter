@@ -1,19 +1,8 @@
-**New Event registration is live 🔴**
+<img src="assets/images/WELCOME_Default.png">
 
-<iframe
-  src="https://luma.com/embed/event/evt-YqReJQ7VrtJqGVc/simple"
-  width="400"
-  height="950"
-  frameborder="0"
-  style="border: 1px solid #bfcbda88; border-radius: 4px;"
-  allow="fullscreen; payment"
-  aria-hidden="false"
-  tabindex="0"
-></iframe>
- 
-<!-- **College Website: ➡️** [JIS University](https://jisuniversity.ac.in) 
+ **College Website: ➡️** [JIS University](https://jisuniversity.ac.in) 
 
-**JIS University**, located in **West Bengal, India**, is a premier institution committed to academic excellence, innovation, and research. Established to provide **world-class education**, the university focuses on **multidisciplinary learning, industry-oriented programs, and holistic student development**.   -->
+**JIS University**, located in **West Bengal, India**, is a premier institution committed to academic excellence, innovation, and research. Established to provide **world-class education**, the university focuses on **multidisciplinary learning, industry-oriented programs, and holistic student development**.  
 
 ### Social Handles
 
@@ -34,6 +23,24 @@
 </div>
 
 <style>
+  .event-register-btn {
+    display: inline-block;
+    padding: 12px 24px;
+    border-radius: 8px;
+    background-color: #0b6efd;
+    color: #ffffff !important;
+    font-weight: 700;
+    text-decoration: none !important;
+    border: 1px solid #0957c3;
+    transition: background-color 0.2s ease, transform 0.2s ease;
+  }
+
+  .event-register-btn:hover {
+    background-color: #0957c3;
+    color: #ffffff !important;
+    transform: translateY(-1px);
+  }
+
   .social-handles-container {
     display: flex;
     gap: 15px;
