@@ -1,8 +1,15 @@
-<img src="assets/Special_Events/womens_day.png">
+**New Event registration is live 🔴**
 
-**OWASP JIS University Chapter wishes everyone a meaningful and inspiring International Women's Day !**
-
-**Celebrating the strength, achievements, and limitless potential of women everywhere.**
+<iframe
+  src="https://luma.com/embed/event/evt-YqReJQ7VrtJqGVc/simple"
+  width="400"
+  height="950"
+  frameborder="0"
+  style="border: 1px solid #bfcbda88; border-radius: 4px;"
+  allow="fullscreen; payment"
+  aria-hidden="false"
+  tabindex="0"
+></iframe>
  
 <!-- **College Website: ➡️** [JIS University](https://jisuniversity.ac.in) 
 
