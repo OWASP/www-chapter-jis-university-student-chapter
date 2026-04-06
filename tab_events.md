@@ -107,21 +107,16 @@ We're excited to announce an upcoming event featuring:
 
 <p>
 <strong>📅 When:</strong> 31st March, 2026<br>
-<strong>🔴 Event registration is live!</strong>
+<strong>🔴 Event registration is closed.</strong>
 </p>
 
 <div style="margin-top:15px;">
-  <a
-    href="https://luma.com/event/evt-YqReJQ7VrtJqGVc"
-    class="luma-checkout--button event-register-btn"
-    data-luma-action="checkout"
-    data-luma-event-id="evt-YqReJQ7VrtJqGVc"
-  >
-    Register for Event
+  <a class="event-register-btn" aria-disabled="true">
+    Registration Closed
   </a>
-
-  <script id="luma-checkout" src="https://embed.lu.ma/checkout-button.js"></script>
 </div>
+
+<p><em>Photos will be updated soon.</em></p>
 
 <hr>
 
