@@ -8,6 +8,24 @@ meetup-group: owasp-jisu
 ---
 
 <style>
+  .event-register-btn {
+    display: inline-block;
+    padding: 12px 24px;
+    border-radius: 8px;
+    background-color: #0b6efd;
+    color: #ffffff !important;
+    font-weight: 700;
+    text-decoration: none !important;
+    border: 1px solid #0957c3;
+    transition: background-color 0.2s ease, transform 0.2s ease;
+  }
+
+  .event-register-btn:hover {
+    background-color: #0957c3;
+    color: #ffffff !important;
+    transform: translateY(-1px);
+  }
+
   @media (max-width: 768px) {
     table {
       font-size: 14px !important;
@@ -88,13 +106,17 @@ We're excited to announce an upcoming event featuring:
 </ul>
 
 <p>
-<strong>📅 When:</strong> Last week of March or First week of April<br>
-<strong>🟢 Stay tuned for the update!</strong>
+<strong>📅 When:</strong> 31st March, 2026<br>
+<strong>🔴 Event registration is closed.</strong>
 </p>
 
-<p style="padding:12px; background-color:#f0f8ff; border-left:4px solid #007bff; margin-top:15px;">
-📢 <strong>Registration form will be live here shortly.</strong> Follow our updates to secure your spot!
-</p>
+<div style="margin-top:15px;">
+  <a class="event-register-btn" aria-disabled="true">
+    Registration Closed
+  </a>
+</div>
+
+<p><em>Photos will be updated soon.</em></p>
 
 <hr>
 

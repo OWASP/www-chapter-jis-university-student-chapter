@@ -1,9 +1,9 @@
-<img src="assets/Special_Events/womens_day.png">
+<img src="assets/Special_Events/OWASP Subho Noboborsho.jpg">
 
-**OWASP JIS University Chapter wishes everyone a meaningful and inspiring International Women's Day !**
+### শুভ নববর্ষ ১৪৩৩ 🌟
 
-**Celebrating the strength, achievements, and limitless potential of women everywhere.**
- 
+OWASP JIS University Student Chapter celebrated **শুভ নববর্ষ ১৪৩৩** with joy, unity, and fresh inspiration for the year ahead. This special occasion reflected the spirit of new beginnings, cultural pride, and community bonding among our members. We wish everyone a year filled with happiness, growth, and success.
+
 <!-- **College Website: ➡️** [JIS University](https://jisuniversity.ac.in) 
 
 **JIS University**, located in **West Bengal, India**, is a premier institution committed to academic excellence, innovation, and research. Established to provide **world-class education**, the university focuses on **multidisciplinary learning, industry-oriented programs, and holistic student development**.   -->
@@ -27,6 +27,24 @@
 </div>
 
 <style>
+  .event-register-btn {
+    display: inline-block;
+    padding: 12px 24px;
+    border-radius: 8px;
+    background-color: #0b6efd;
+    color: #ffffff !important;
+    font-weight: 700;
+    text-decoration: none !important;
+    border: 1px solid #0957c3;
+    transition: background-color 0.2s ease, transform 0.2s ease;
+  }
+
+  .event-register-btn:hover {
+    background-color: #0957c3;
+    color: #ffffff !important;
+    transform: translateY(-1px);
+  }
+
   .social-handles-container {
     display: flex;
     gap: 15px;
