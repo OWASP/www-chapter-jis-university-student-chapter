@@ -1,8 +1,12 @@
-<img src="assets/images/WELCOME_Default.png">
+<img src="assets/Special_Events/OWASP Subho Noboborsho.jpg">
 
- **College Website: ➡️** [JIS University](https://jisuniversity.ac.in) 
+### শুভ নববর্ষ ১৪৩৩ 🌟
 
-**JIS University**, located in **West Bengal, India**, is a premier institution committed to academic excellence, innovation, and research. Established to provide **world-class education**, the university focuses on **multidisciplinary learning, industry-oriented programs, and holistic student development**.  
+OWASP JIS University Student Chapter celebrated **শুভ নববর্ষ ১৪৩৩** with joy, unity, and fresh inspiration for the year ahead. This special occasion reflected the spirit of new beginnings, cultural pride, and community bonding among our members. We wish everyone a year filled with happiness, growth, and success.
+
+<!-- **College Website: ➡️** [JIS University](https://jisuniversity.ac.in) 
+
+**JIS University**, located in **West Bengal, India**, is a premier institution committed to academic excellence, innovation, and research. Established to provide **world-class education**, the university focuses on **multidisciplinary learning, industry-oriented programs, and holistic student development**.   -->
 
 ### Social Handles
 
