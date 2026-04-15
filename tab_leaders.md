@@ -140,7 +140,7 @@ tags: OWASP-JISU
       <td style="padding:12px; border:1px solid #e0e0e0; font-size:18px;" data-label="Socials">
         <a href="#" target="_blank" style="color:#333;"><i class="fab fa-instagram"></i></a>
         <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-linkedin"></i></a>
-        <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
+        <a href="https://github.com/sayuj5" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
       </td>
     </tr>
     <tr>
@@ -176,7 +176,6 @@ tags: OWASP-JISU
         <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
       </td>
     </tr>
-
     <tr>
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Name"><strong>Sanchari Ganguly</strong></td>
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">Design Associate</td>
@@ -186,7 +185,6 @@ tags: OWASP-JISU
         <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
       </td>
     </tr>
-
     <tr style="background-color:#f9f9f9;">
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Name"><strong>Ankit Dey</strong></td>
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">Design Associate</td>
@@ -220,17 +218,15 @@ tags: OWASP-JISU
         <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
       </td>
     </tr>
-
     <tr>
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Name"><strong>Rashmi Pyne</strong></td>
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">PR Coordinator</td>
       <td style="padding:12px; border:1px solid #e0e0e0; font-size:18px;" data-label="Socials">
-        <a href="#" target="_blank" style="color:#333;"><i class="fab fa-instagram"></i></a>
-        <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-linkedin"></i></a>
-        <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
+        <a href="https://www.instagram.com/rashmiyyaarr" target="_blank" style="color:#333;"><i class="fab fa-instagram"></i></a>
+        <a href="https://www.linkedin.com/in/rashmi-pyne-b936a3342" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-linkedin"></i></a>
+        <a href="https://github.com/rashmi-crypto" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
       </td>
     </tr>
-
     <tr style="background-color:#f9f9f9;">
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Name"><strong>Divyanshu Jha</strong></td>
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">PR Associate</td>
@@ -240,7 +236,6 @@ tags: OWASP-JISU
         <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
       </td>
     </tr>
-
     <tr>
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Name"><strong>Ankana Biswas</strong></td>
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">Social Media</td>
