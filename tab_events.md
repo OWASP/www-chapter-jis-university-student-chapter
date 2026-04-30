@@ -26,6 +26,16 @@ meetup-group: owasp-jisu
     transform: translateY(-1px);
   }
 
+  .event-highlights {
+    text-align: center;
+  }
+
+  .event-highlights img {
+    height: 250px;
+    object-fit: cover;
+    margin: 4px;
+  }
+
   @media (max-width: 768px) {
     table {
       font-size: 14px !important;
@@ -66,6 +76,12 @@ meetup-group: owasp-jisu
     table td:not(:first-child) {
       margin-top: 10px;
     }
+
+    .event-highlights img {
+      width: 100% !important;
+      height: auto !important;
+      max-width: 100% !important;
+    }
   }
   
   @media (max-width: 480px) {
@@ -80,6 +96,12 @@ meetup-group: owasp-jisu
     table tbody tr {
       padding: 8px !important;
       margin-bottom: 12px;
+    }
+
+    .event-highlights img {
+      width: 100% !important;
+      height: auto !important;
+      max-width: 100% !important;
     }
   }
 </style>
@@ -96,29 +118,8 @@ Here you’ll find details about our upcoming engagements and successfully condu
 <h2 style="margin-top:25px;">Upcoming Events 🗓️</h2>
 
 <p>
-We're excited to announce our next event:
+No upcoming events are currently announced. Please check back later.
 </p>
-
-<p>
-<strong>Event Name:</strong> OWASP JISU April Virtual Meetup
-</p>
-
-<ul>
-  <li><strong>Discussion regarding future events</strong></li>
-  <li><strong>Networking</strong></li>
-  <li><strong>Quiz</strong></li>  
-</ul>
-
-<p>
-<strong>📅 When:</strong> 30th April, 2026<br>
-<strong>🟢 Registration is live.</strong><br>
-</p>
-
-<div style="margin-top:15px;">
-  <a class="event-register-btn" href="https://luma.com/t3eimx5d" target="_blank" rel="noopener noreferrer">
-    Register Now
-  </a>
-</div>
 
 <hr>
 
@@ -126,7 +127,40 @@ We're excited to announce our next event:
 
 <details>
 <summary style="cursor:pointer; font-weight:bold; font-size:16px;">
-30 Mar 2026 - OWASP 101 Event - OWASP JISU 101 Meetup
+30 Apr 2026 - April Virtual Discussion Meetup
+</summary>
+
+<br>
+
+<h3>Event Overview 🚩</h3>
+
+<p>
+<strong>Event Name:</strong> April Virtual Meetup<br>
+<strong>Location:</strong> Virtual (Google Meet)<br>
+<strong>Duration:</strong> 2 Hours<br>
+<strong>Status:</strong> <span style="color:green; font-weight:bold;">✅ Successfully Completed</span>
+</p>
+
+<p>
+During the April Virtual Meetup, we discussed OWASP initiatives, connected with participants through networking and open discussions, shared plans for upcoming sessions, hosted a small quiz, and distributed small swags to attendees.
+</p>
+
+<hr>
+
+<h3 style="margin-top:20px;">🌟 Event Highlights</h3>
+
+<p class="event-highlights">
+  <img src="assets/April_VM/ss1.jpeg" width="45%" />
+  <img src="assets/April_VM/ss2.jpeg" width="45%" />
+</p>
+
+</details>
+
+<hr>
+
+<details>
+<summary style="cursor:pointer; font-weight:bold; font-size:16px;">
+30 Mar 2026 - OWASP 101 Event - OWASP JISU Meetup
 </summary>
 
 <br>
