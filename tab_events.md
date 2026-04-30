@@ -96,31 +96,59 @@ Here you’ll find details about our upcoming engagements and successfully condu
 <h2 style="margin-top:25px;">Upcoming Events 🗓️</h2>
 
 <p>
-We're excited to announce an upcoming event featuring:
+We're excited to announce our next event:
+</p>
+
+<p>
+<strong>Event Name:</strong> OWASP JISU April Virtual Meetup
 </p>
 
 <ul>
-  <li><strong>New CORE Team Introduction</strong></li>
-  <li><strong>Expert Speaker Session</strong></li>
-  <li><strong>CTF & Quiz Competition</strong></li>
+  <li><strong>Discussion regarding future events</strong></li>
+  <li><strong>Networking</strong></li>
+  <li><strong>Quiz</strong></li>  
 </ul>
 
 <p>
-<strong>📅 When:</strong> 31st March, 2026<br>
-<strong>🔴 Event registration is closed.</strong>
+<strong>📅 When:</strong> 30th April, 2026<br>
+<strong>🟢 Registration is live.</strong><br>
 </p>
 
 <div style="margin-top:15px;">
-  <a class="event-register-btn" aria-disabled="true">
-    Registration Closed
+  <a class="event-register-btn" href="https://luma.com/t3eimx5d" target="_blank" rel="noopener noreferrer">
+    Register Now
   </a>
 </div>
-
-<p><em>Photos will be updated soon.</em></p>
 
 <hr>
 
 <h2 style="margin-top:25px;">Past Events ⏳</h2>
+
+<details>
+<summary style="cursor:pointer; font-weight:bold; font-size:16px;">
+30 Mar 2026 - OWASP 101 Event - OWASP JISU 101 Meetup
+</summary>
+
+<br>
+
+<h3>Event Overview 🚩</h3>
+
+<p>
+<strong>Event Name:</strong> OWASP JISU 101 Meetup<br>
+<strong>Location:</strong> JIS University<br>
+<strong>Duration:</strong> 5 Hours<br>
+<strong>Status:</strong> <span style="color:green; font-weight:bold;">✅ Successfully Completed</span>
+</p>
+
+<p>
+In this event, we introduced the OWASP core team, hosted a speaker session, and conducted an interactive quiz session.
+</p>
+
+<p><em>Photos will be updated soon.</em></p>
+
+</details>
+
+<hr>
 
 <details>
 <summary style="cursor:pointer; font-weight:bold; font-size:16px;">
