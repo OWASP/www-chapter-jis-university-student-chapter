@@ -120,26 +120,26 @@ tags: OWASP-JISU
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Name"><strong>Vivek Yadav</strong></td>
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">Chapter Ops.</td>
       <td style="padding:12px; border:1px solid #e0e0e0; font-size:18px;" data-label="Socials">
-        <a href="#" target="_blank" style="color:#333;"><i class="fab fa-instagram"></i></a>
-        <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-linkedin"></i></a>
-        <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
+        <a href="https://www.instagram.com/ezmkdir/" target="_blank" style="color:#333;"><i class="fab fa-instagram"></i></a>
+        <a href="https://www.linkedin.com/in/ezmkdir/" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-linkedin"></i></a>
+        <a href="https://github.com/ez-vivek" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
       </td>
     </tr>
     <tr>
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Name"><strong>Sagnik Roy</strong></td>
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">Technical Ops.</td>
       <td style="padding:12px; border:1px solid #e0e0e0; font-size:18px;" data-label="Socials">
-        <a href="#" target="_blank" style="color:#333;"><i class="fab fa-instagram"></i></a>
-        <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-linkedin"></i></a>
-        <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
+        <a href="https://instagram.com/them3chanik" target="_blank" style="color:#333;"><i class="fab fa-instagram"></i></a>
+        <a href="https://www.linkedin.com/in/sagnik-roy-93b472329" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-linkedin"></i></a>
+        <a href="https://github.com/TheM3chanik" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
       </td>
     </tr>
     <tr style="background-color:#f9f9f9;">
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Name"><strong>Sayuj Sur</strong></td>
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">Ops. Associate</td>
       <td style="padding:12px; border:1px solid #e0e0e0; font-size:18px;" data-label="Socials">
-        <a href="#" target="_blank" style="color:#333;"><i class="fab fa-instagram"></i></a>
-        <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-linkedin"></i></a>
+        <a href="https://www.instagram.com/sayuj_sur_/" target="_blank" style="color:#333;"><i class="fab fa-instagram"></i></a>
+        <a href="https://www.linkedin.com/in/sayuj-sur-a05bb42a1/" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-linkedin"></i></a>
         <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
       </td>
     </tr>
@@ -171,29 +171,27 @@ tags: OWASP-JISU
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Name"><strong>Shinjan Kundu</strong></td>
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">Design Head</td>
       <td style="padding:12px; border:1px solid #e0e0e0; font-size:18px;" data-label="Socials">
-        <a href="#" target="_blank" style="color:#333;"><i class="fab fa-instagram"></i></a>
-        <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-linkedin"></i></a>
-        <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
+        <a href="https://www.instagram.com/technological_geek/" target="_blank" style="color:#333;"><i class="fab fa-instagram"></i></a>
+        <a href="https://www.linkedin.com/in/shinjan-kundu-7a5204281/" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-linkedin"></i></a>
+        <a href="https://github.com/Galahad19" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
       </td>
     </tr>
-
     <tr>
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Name"><strong>Sanchari Ganguly</strong></td>
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">Design Associate</td>
       <td style="padding:12px; border:1px solid #e0e0e0; font-size:18px;" data-label="Socials">
-        <a href="#" target="_blank" style="color:#333;"><i class="fab fa-instagram"></i></a>
-        <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-linkedin"></i></a>
-        <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
+        <a href="https://www.instagram.com/sa_nchari15/" target="_blank" style="color:#333;"><i class="fab fa-instagram"></i></a>
+        <a href="https://www.linkedin.com/in/sanchari-ganguly-394810338/" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-linkedin"></i></a>
+        <a href="https://github.com/SANCHARI-GANGULY" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
       </td>
     </tr>
-
     <tr style="background-color:#f9f9f9;">
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Name"><strong>Ankit Dey</strong></td>
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">Design Associate</td>
       <td style="padding:12px; border:1px solid #e0e0e0; font-size:18px;" data-label="Socials">
-        <a href="#" target="_blank" style="color:#333;"><i class="fab fa-instagram"></i></a>
-        <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-linkedin"></i></a>
-        <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
+        <a href="https://www.instagram.com/ig_ankit_95/" target="_blank" style="color:#333;"><i class="fab fa-instagram"></i></a>
+        <a href="https://www.linkedin.com/in/ankitdey06/" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-linkedin"></i></a>
+        <a href="https://github.com/nonsense3" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
       </td>
     </tr>
   </tbody>
@@ -215,12 +213,11 @@ tags: OWASP-JISU
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Name"><strong>Kritika Chakraborty</strong></td>
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">Outreach Captain</td>
       <td style="padding:12px; border:1px solid #e0e0e0; font-size:18px;" data-label="Socials">
-        <a href="#" target="_blank" style="color:#333;"><i class="fab fa-instagram"></i></a>
-        <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-linkedin"></i></a>
-        <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
+        <a href="https://www.instagram.com/kriti_kaa27" target="_blank" style="color:#333;"><i class="fab fa-instagram"></i></a>
+        <a href="https://www.linkedin.com/in/kritika-chakraborty-759870282" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-linkedin"></i></a>
+        <a href="https://github.com/KritikaChakraborty" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
       </td>
     </tr>
-
     <tr>
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Name"><strong>Rashmi Pyne</strong></td>
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">PR Coordinator</td>
@@ -230,24 +227,22 @@ tags: OWASP-JISU
         <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
       </td>
     </tr>
-
     <tr style="background-color:#f9f9f9;">
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Name"><strong>Divyanshu Jha</strong></td>
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">PR Associate</td>
       <td style="padding:12px; border:1px solid #e0e0e0; font-size:18px;" data-label="Socials">
-        <a href="#" target="_blank" style="color:#333;"><i class="fab fa-instagram"></i></a>
-        <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-linkedin"></i></a>
-        <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
+        <a href="https://www.instagram.com/divyrmhu/" target="_blank" style="color:#333;"><i class="fab fa-instagram"></i></a>
+        <a href="https://www.linkedin.com/in/divyanshu-jha-b2476b311/" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-linkedin"></i></a>
+        <a href="https://github.com/divyanshuj91" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
       </td>
     </tr>
-
     <tr>
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Name"><strong>Ankana Biswas</strong></td>
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">Social Media</td>
       <td style="padding:12px; border:1px solid #e0e0e0; font-size:18px;" data-label="Socials">
-        <a href="#" target="_blank" style="color:#333;"><i class="fab fa-instagram"></i></a>
-        <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-linkedin"></i></a>
-        <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
+        <a href="https://www.instagram.com/_.boho.girl._" target="_blank" style="color:#333;"><i class="fab fa-instagram"></i></a>
+        <a href="https://www.linkedin.com/in/ankana-biswas-a80a30363" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-linkedin"></i></a>
+        <a href="https://github.com/ankana-me" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
       </td>
     </tr>
 
