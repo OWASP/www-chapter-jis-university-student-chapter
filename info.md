@@ -1,12 +1,13 @@
-<img src="assets/Special_Events/OWASP Subho Noboborsho.jpg">
+<img src="assets/The HexaFalls/coming soon owsap.jpg">
 
-### শুভ নববর্ষ ১৪৩৩ 🌟
 
-OWASP JIS University Student Chapter celebrated **শুভ নববর্ষ ১৪৩৩** with joy, unity, and fresh inspiration for the year ahead. This special occasion reflected the spirit of new beginnings, cultural pride, and community bonding among our members. We wish everyone a year filled with happiness, growth, and success.
+**Event Website:** [HexaFalls.org](https://hexafalls.org) — *Where Security Meets Innovation* 🪄
 
-<!-- **College Website: ➡️** [JIS University](https://jisuniversity.ac.in) 
+## HexaFalls 2 is Coming 🔮
 
-**JIS University**, located in **West Bengal, India**, is a premier institution committed to academic excellence, innovation, and research. Established to provide **world-class education**, the university focuses on **multidisciplinary learning, industry-oriented programs, and holistic student development**.   -->
+**OWASP JISU** is proud to be a **collaborative partner** of **HexaFalls 2** — an exciting and innovative cybersecurity event bringing together security enthusiasts, researchers, and industry experts.
+
+More details coming soon, Stay tuned for registration, schedule, and speaker announcements.✨
 
 ### Social Handles
 

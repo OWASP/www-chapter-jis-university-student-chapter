@@ -36,6 +36,35 @@ meetup-group: owasp-jisu
     margin: 4px;
   }
 
+  .upcoming-event-card {
+    border: 1px solid #e0e0e0;
+    border-radius: 12px;
+    padding: 18px;
+    background: linear-gradient(180deg, #ffffff 0%, #f7fbff 100%);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+    max-width: 900px;
+  }
+
+  .upcoming-event-layout {
+    display: flex;
+    gap: 18px;
+    align-items: center;
+  }
+
+  .upcoming-event-poster {
+    width: 180px;
+    max-width: 180px;
+    border-radius: 10px;
+    object-fit: cover;
+    flex-shrink: 0;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  }
+
+  .upcoming-event-content {
+    flex: 1;
+    min-width: 0;
+  }
+
   @media (max-width: 768px) {
     table {
       font-size: 14px !important;
@@ -82,6 +111,17 @@ meetup-group: owasp-jisu
       height: auto !important;
       max-width: 100% !important;
     }
+
+    .upcoming-event-layout {
+      flex-direction: column !important;
+      align-items: flex-start !important;
+    }
+
+    .upcoming-event-poster {
+      width: 100% !important;
+      max-width: 100% !important;
+      height: auto !important;
+    }
   }
   
   @media (max-width: 480px) {
@@ -103,6 +143,17 @@ meetup-group: owasp-jisu
       height: auto !important;
       max-width: 100% !important;
     }
+
+    .upcoming-event-layout {
+      flex-direction: column !important;
+      align-items: flex-start !important;
+    }
+
+    .upcoming-event-poster {
+      width: 100% !important;
+      max-width: 100% !important;
+      height: auto !important;
+    }
   }
 </style>
 
@@ -117,9 +168,27 @@ Here you’ll find details about our upcoming engagements and successfully condu
 
 <h2 style="margin-top:25px;">Upcoming Events 🗓️</h2>
 
-<p>
-No upcoming events are currently announced. Please check back later.
-</p>
+<div class="upcoming-event-card">
+  <div class="upcoming-event-layout">
+    <img class="upcoming-event-poster" src="assets/June Event/PI_owasp_x_gdg.jpeg" alt="Prompt Injection Attacks in LLMs event poster" />
+
+    <div class="upcoming-event-content">
+      <h3 style="margin-top:0; margin-bottom:10px;">Prompt Injection Attacks in LLMs</h3>
+      <p style="margin:0 0 8px 0;"><strong>Date:</strong> 18th June 2026</p>
+      <p style="margin:0 0 16px 0;">Join us for an upcoming session focused on understanding prompt injection attacks and how they impact large language models.</p>
+      <a
+        href="https://luma.com/event/evt-5EBNwXdHVo4CfBU"
+        class="luma-checkout--button"
+        data-luma-action="checkout"
+        data-luma-event-id="evt-5EBNwXdHVo4CfBU"
+      >
+        Register for Event
+      </a>
+
+      <script id="luma-checkout" src="https://embed.lu.ma/checkout-button.js"></script>
+    </div>
+  </div>
+</div>
 
 <hr>
 
