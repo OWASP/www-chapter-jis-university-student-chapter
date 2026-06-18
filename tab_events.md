@@ -27,13 +27,20 @@ meetup-group: owasp-jisu
   }
 
   .event-highlights {
-    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    justify-content: center;
+    align-items: center;
   }
 
   .event-highlights img {
+    width: calc(33.333% - 12px);
+    max-width: 320px;
     height: 250px;
     object-fit: cover;
-    margin: 4px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.06);
   }
 
   .upcoming-event-card {
@@ -170,22 +177,12 @@ Here you’ll find details about our upcoming engagements and successfully condu
 
 <div class="upcoming-event-card">
   <div class="upcoming-event-layout">
-    <img class="upcoming-event-poster" src="assets/June Event/PI_owasp_x_gdg.jpeg" alt="Prompt Injection Attacks in LLMs event poster" />
+    <img class="upcoming-event-poster" src="assets/The HexaFalls/coming soon owsap.jpg" alt="HexaFalls coming soon poster" />
 
     <div class="upcoming-event-content">
-      <h3 style="margin-top:0; margin-bottom:10px;">Prompt Injection Attacks in LLMs</h3>
-      <p style="margin:0 0 8px 0;"><strong>Date:</strong> 18th June 2026</p>
-      <p style="margin:0 0 16px 0;">Join us for an upcoming session focused on understanding prompt injection attacks and how they impact large language models.</p>
-      <a
-        href="https://luma.com/event/evt-5EBNwXdHVo4CfBU"
-        class="luma-checkout--button"
-        data-luma-action="checkout"
-        data-luma-event-id="evt-5EBNwXdHVo4CfBU"
-      >
-        Register for Event
-      </a>
-
-      <script id="luma-checkout" src="https://embed.lu.ma/checkout-button.js"></script>
+      <h3 style="margin-top:0; margin-bottom:10px;">HexaFalls – Coming Soon</h3>
+      <p style="margin:0 0 8px 0;"><strong>Date:</strong> Coming Soon</p>
+      <p style="margin:0 0 16px 0;">Stay tuned for HexaFalls — our national-level hackathon & CTF series. More details will be announced soon.</p>
     </div>
   </div>
 </div>
@@ -193,6 +190,46 @@ Here you’ll find details about our upcoming engagements and successfully condu
 <hr>
 
 <h2 style="margin-top:25px;">Past Events ⏳</h2>
+
+<details>
+<summary style="cursor:pointer; font-weight:bold; font-size:16px;">
+18 Jun 2026 - Prompt Injection Attacks in LLMs
+</summary>
+
+<br>
+
+<h3>Event Overview 🚩</h3>
+
+<p>
+<strong>Event Name:</strong> Prompt Injection Attacks in LLMs<br>
+<strong>Location:</strong> JIS University<br>
+<strong>Duration:</strong> 4 Hours<br>
+<strong>Status:</strong> <span style="color:green; font-weight:bold;">✅ Successfully Completed</span>
+</p>
+
+<p>
+Here we demonstrate Prompt Injection Attacks in LLMs and also celebrated OWASP 25th Anniversary.
+</p>
+
+<hr>
+
+<h3 style="margin-top:20px;">🌟 Event Highlights</h3>
+
+<p class="event-highlights">
+  <img src="assets/June Event/20260618_113410.jpg" alt="June event photo 1" />
+  <img src="assets/June Event/IMG_7974.jpg" alt="June event photo 2" />
+  <img src="assets/June Event/IMG20260608114904.jpg" alt="June event photo 3" />
+</p>
+
+<p class="event-highlights">
+  <img src="assets/June Event/IMG_20260608_120205683.jpg" alt="June event photo 4" />
+  <img src="assets/June Event/IMG_20260608_113421146_HDR.jpg" alt="June event photo 5" />
+  <img src="assets/June Event/20260618_134012.jpg" alt="June event photo 6" />
+</p>
+
+</details>
+ 
+<hr>
 
 <details>
 <summary style="cursor:pointer; font-weight:bold; font-size:16px;">
