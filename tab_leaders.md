@@ -125,6 +125,15 @@ tags: OWASP-JISU
         <a href="https://github.com/ez-vivek" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
       </td>
     </tr>
+        <tr style="background-color:#f9f9f9;">
+      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Name"><strong>Ayushman Bhttacharya</strong></td>
+      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">Community Strategist.</td>
+      <td style="padding:12px; border:1px solid #e0e0e0; font-size:18px;" data-label="Socials">
+        <a href="https://www.instagram.com/elixpo_/" target="_blank" style="color:#333;"><i class="fab fa-instagram"></i></a>
+        <a href="https://www.linkedin.com/in/elixpo/" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-linkedin"></i></a>
+        <a href="https://github.com/Circuit-Overtime" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
+      </td>
+    </tr>
     <tr>
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Name"><strong>Sagnik Roy</strong></td>
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">Technical Ops.</td>
