@@ -1,13 +1,9 @@
-<img src="assets/The HexaFalls/coming soon owsap.jpg">
+<img src="assets/images/WELCOME_Default.png">
 
 
-**Event Website:** [HexaFalls.org](https://hexafalls.org) — *Where Security Meets Innovation* 🪄
+**OWASP JISU** is a student community focused on cybersecurity learning, collaboration, and events.
 
-## HexaFalls 2 is Coming 🔮
-
-**OWASP JISU** is proud to be a **collaborative partner** of **HexaFalls 2** — an exciting and innovative cybersecurity event bringing together security enthusiasts, researchers, and industry experts.
-
-More details coming soon, Stay tuned for registration, schedule, and speaker announcements.✨
+Stay connected for chapter updates, activities, and announcements.✨
 
 ### Social Handles
 

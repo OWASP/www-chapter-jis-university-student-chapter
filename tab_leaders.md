@@ -116,16 +116,25 @@ tags: OWASP-JISU
     </tr>
   </thead>
   <tbody>
+    <tr style="background-color:#dbeafe;">
+      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Name"><strong>Sayuj Sur</strong></td>
+      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">Chapter Operations <span style="display:inline-block; margin-left:8px; padding:3px 8px; border-radius:999px; background:#111827; color:#ffffff; font-size:11px; font-weight:700; vertical-align:middle;">Upcoming Chapter Lead</span></td>
+      <td style="padding:12px; border:1px solid #e0e0e0; font-size:18px;" data-label="Socials">
+        <a href="https://www.instagram.com/sayuj_sur_/" target="_blank" style="color:#333;"><i class="fab fa-instagram"></i></a>
+        <a href="https://www.linkedin.com/in/sayuj-sur-a05bb42a1/" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-linkedin"></i></a>
+        <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
+      </td>
+    </tr>
     <tr style="background-color:#f9f9f9;">
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Name"><strong>Vivek Yadav</strong></td>
-      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">Chapter Ops.</td>
+      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">Chapter Operations</td>
       <td style="padding:12px; border:1px solid #e0e0e0; font-size:18px;" data-label="Socials">
         <a href="https://www.instagram.com/ezmkdir/" target="_blank" style="color:#333;"><i class="fab fa-instagram"></i></a>
         <a href="https://www.linkedin.com/in/ezmkdir/" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-linkedin"></i></a>
         <a href="https://github.com/ez-vivek" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
       </td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Name"><strong>Sagnik Roy</strong></td>
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">Technical Ops.</td>
       <td style="padding:12px; border:1px solid #e0e0e0; font-size:18px;" data-label="Socials">
@@ -133,17 +142,8 @@ tags: OWASP-JISU
         <a href="https://www.linkedin.com/in/sagnik-roy-93b472329" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-linkedin"></i></a>
         <a href="https://github.com/TheM3chanik" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
       </td>
-    </tr>
+    </tr> -->
     <tr style="background-color:#f9f9f9;">
-      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Name"><strong>Sayuj Sur</strong></td>
-      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">Ops. Associate</td>
-      <td style="padding:12px; border:1px solid #e0e0e0; font-size:18px;" data-label="Socials">
-        <a href="https://www.instagram.com/sayuj_sur_/" target="_blank" style="color:#333;"><i class="fab fa-instagram"></i></a>
-        <a href="https://www.linkedin.com/in/sayuj-sur-a05bb42a1/" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-linkedin"></i></a>
-        <a href="#" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
-      </td>
-    </tr>
-    <tr>
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Name"><strong>Anusha Mitra</strong></td>
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">Ops. Coordinator</td>
       <td style="padding:12px; border:1px solid #e0e0e0; font-size:18px;" data-label="Socials">

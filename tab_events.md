@@ -72,6 +72,39 @@ meetup-group: owasp-jisu
     min-width: 0;
   }
 
+  .event-summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    list-style: none;
+    padding-left: 0;
+    padding-inline-start: 0;
+  }
+
+  .event-summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .event-summary::before {
+    content: '▶';
+    display: inline-block;
+    margin-right: 6px;
+    font-size: 11px;
+    line-height: 1;
+    flex: 0 0 auto;
+  }
+
+  details[open] .event-summary::before {
+    content: '▼';
+  }
+
+  .event-summary-title {
+    flex: 1;
+    min-width: 0;
+    margin: 0;
+  }
+
   @media (max-width: 768px) {
     table {
       font-size: 14px !important;
@@ -119,6 +152,19 @@ meetup-group: owasp-jisu
       max-width: 100% !important;
     }
 
+    p[style*="text-align:center;"] > img {
+      width: 100% !important;
+      max-width: 100% !important;
+      height: auto !important;
+      display: block !important;
+      margin: 0 0 12px 0 !important;
+    }
+
+    p.event-highlights {
+      flex-direction: column !important;
+      align-items: stretch !important;
+    }
+
     .upcoming-event-layout {
       flex-direction: column !important;
       align-items: flex-start !important;
@@ -151,6 +197,19 @@ meetup-group: owasp-jisu
       max-width: 100% !important;
     }
 
+    p[style*="text-align:center;"] > img {
+      width: 100% !important;
+      max-width: 100% !important;
+      height: auto !important;
+      display: block !important;
+      margin: 0 0 12px 0 !important;
+    }
+
+    p.event-highlights {
+      flex-direction: column !important;
+      align-items: stretch !important;
+    }
+
     .upcoming-event-layout {
       flex-direction: column !important;
       align-items: flex-start !important;
@@ -177,12 +236,11 @@ Here you’ll find details about our upcoming engagements and successfully condu
 
 <div class="upcoming-event-card">
   <div class="upcoming-event-layout">
-    <img class="upcoming-event-poster" src="assets/The HexaFalls/coming soon owsap.jpg" alt="HexaFalls coming soon poster" />
+    <img class="upcoming-event-poster" src="assets/2026-SIP/owasp sip.png" alt="OWASP Chapter Student Induction Program poster" />
 
     <div class="upcoming-event-content">
-      <h3 style="margin-top:0; margin-bottom:10px;">HexaFalls – Coming Soon</h3>
-      <p style="margin:0 0 8px 0;"><strong>Date:</strong> Coming Soon</p>
-      <p style="margin:0 0 16px 0;">Stay tuned for HexaFalls — our national-level hackathon & CTF series. More details will be announced soon.</p>
+      <h3 style="margin-top:0; margin-bottom:10px;">OWASP Chapter Student Induction Program for JIS University B.Tech and BCA Students</h3>
+      <p style="margin:0 0 16px 0;">An exclusive induction program for B.Tech and BCA students of JIS University, introducing the OWASP chapter, cybersecurity learning, and ways to get involved with the community.</p>
     </div>
   </div>
 </div>
@@ -190,6 +248,53 @@ Here you’ll find details about our upcoming engagements and successfully condu
 <hr>
 
 <h2 style="margin-top:25px;">Past Events ⏳</h2>
+
+<details>
+<summary class="event-summary" style="cursor:pointer; font-weight:bold; font-size:16px;">
+  <span class="event-summary-title">25 to 26 July 2026 - HexaFalls 2 x OWASP Collaboration Event</span>
+  <span style="display:inline-block; background:#111827; color:#ffffff; font-size:11px; font-weight:700; padding:5px 10px; border-radius:999px; box-shadow:0 2px 6px rgba(0,0,0,0.15); white-space:nowrap;">Signature Event</span>
+</summary>
+
+<br>
+
+<h3>Event Overview 🚩</h3>
+
+<p>
+<strong>Event Name:</strong> HexaFalls 2 x OWASP Collaboration Event<br>
+<strong>Location:</strong> JIS University<br>
+<strong>Duration:</strong> 32 Hours<br>
+<strong>Status:</strong> <span style="color:green; font-weight:bold;">✅ Successfully Completed</span>
+</p>
+
+<p>
+HexaFalls 2 was a national-level hackathon hosted at JIS University, Kolkata, in collaboration with the OWASP Foundation. Over 32 hours, we organized a CTF competition, set up a booth to distribute swags, hosted a dedicated speaker session, and created fun activities for participants to stay engaged throughout the event.
+</p>
+
+<hr>
+
+<h3 style="margin-top:20px;">🌟 Event Highlights</h3>
+
+<p style="text-align:center;">
+  <img src="assets/The HexaFalls/reg_desk2.JPG" width="30%" style="height:250px; object-fit:cover; border-radius:8px;" alt="Registration desk at HexaFalls 2 x OWASP" />
+  <img src="assets/The HexaFalls/room_601.jpg" width="30%" style="height:250px; object-fit:cover; border-radius:8px;" alt="HexaFalls event room" />
+  <img src="assets/The HexaFalls/harshita_on_stage.jpeg" width="30%" style="height:250px; object-fit:cover; border-radius:8px;" alt="Stage activity at HexaFalls 2 x OWASP" />
+</p>
+
+<p style="text-align:center;">
+  <img src="assets/The HexaFalls/speaker.JPG" width="30%" style="height:250px; object-fit:cover; border-radius:8px;" alt="Speaker at HexaFalls 2 x OWASP" />
+  <img src="assets/The HexaFalls/OWASP_x_HexaFalls_Team.jpg" width="30%" style="height:250px; object-fit:contain; border-radius:8px; background:#f5f5f5;" alt="HexaFalls 2 x OWASP team photo" />
+  <img src="assets/The HexaFalls/speaker_session.JPG" width="30%" style="height:250px; object-fit:cover; border-radius:8px;" alt="Speaker session at HexaFalls 2 x OWASP" />
+</p>
+
+<p style="text-align:center;">
+  <img src="assets/The HexaFalls/reg_desk1.jpg" width="30%" style="height:250px; object-fit:cover; border-radius:8px;" alt="Registration desk at HexaFalls 2 x OWASP" />
+  <img src="assets/The HexaFalls/shreya_booth.jpg" width="30%" style="height:250px; object-fit:cover; border-radius:8px;" alt="Booth activity at HexaFalls 2 x OWASP" />
+  <img src="assets/The HexaFalls/swags.JPG" width="30%" style="height:250px; object-fit:cover; border-radius:8px;" alt="Swag distribution at HexaFalls 2 x OWASP" />
+</p>
+
+</details>
+
+<hr>
 
 <details>
 <summary style="cursor:pointer; font-weight:bold; font-size:16px;">
