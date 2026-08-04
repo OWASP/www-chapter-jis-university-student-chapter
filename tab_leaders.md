@@ -134,15 +134,6 @@ tags: OWASP-JISU
         <a href="https://github.com/ez-vivek" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
       </td>
     </tr>
-    <tr>
-      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Name"><strong>Sagnik Roy</strong></td>
-      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">Technical Ops.</td>
-      <td style="padding:12px; border:1px solid #e0e0e0; font-size:18px;" data-label="Socials">
-        <a href="https://instagram.com/them3chanik" target="_blank" style="color:#333;"><i class="fab fa-instagram"></i></a>
-        <a href="https://www.linkedin.com/in/sagnik-roy-93b472329" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-linkedin"></i></a>
-        <a href="https://github.com/TheM3chanik" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
-      </td>
-    </tr> -->
     <tr style="background-color:#f9f9f9;">
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Name"><strong>Anusha Mitra</strong></td>
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">Ops. Coordinator</td>
