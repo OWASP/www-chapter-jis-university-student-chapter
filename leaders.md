@@ -18,3 +18,4 @@
 * **Rashmi Pyne** · PR Coordinator  
 * **Divyanshu Jha** · PR Associate  
 * **Ankana Biswas** · Social Media
+* **Ayushman Bhattacharya** · Community Strategist

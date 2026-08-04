@@ -134,7 +134,7 @@ tags: OWASP-JISU
         <a href="https://github.com/ez-vivek" target="_blank" style="margin-left:12px; color:#333;"><i class="fab fa-github"></i></a>
       </td>
     </tr>
-    <!-- <tr>
+    <tr>
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Name"><strong>Sagnik Roy</strong></td>
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">Technical Ops.</td>
       <td style="padding:12px; border:1px solid #e0e0e0; font-size:18px;" data-label="Socials">
