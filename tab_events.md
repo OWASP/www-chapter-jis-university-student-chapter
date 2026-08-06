@@ -236,11 +236,9 @@ Here you’ll find details about our upcoming engagements and successfully condu
 
 <div class="upcoming-event-card">
   <div class="upcoming-event-layout">
-    <img class="upcoming-event-poster" src="assets/2026-SIP/owasp sip.png" alt="OWASP Chapter Student Induction Program poster" />
-
     <div class="upcoming-event-content">
-      <h3 style="margin-top:0; margin-bottom:10px;">OWASP Chapter Student Induction Program for JIS University B.Tech and BCA Students</h3>
-      <p style="margin:0 0 16px 0;">An exclusive induction program for B.Tech and BCA students of JIS University, introducing the OWASP chapter, cybersecurity learning, and ways to get involved with the community.</p>
+      <h3 style="margin-top:0; margin-bottom:10px;">Announcement Coming Soon</h3>
+      <p style="margin:0 0 16px 0;">We will announce an upcoming OWASP event soon. Stay tuned for the official details, registration information, and program schedule.</p>
     </div>
   </div>
 </div>
@@ -248,6 +246,46 @@ Here you’ll find details about our upcoming engagements and successfully condu
 <hr>
 
 <h2 style="margin-top:25px;">Past Events ⏳</h2>
+
+<details>
+<summary style="cursor:pointer; font-weight:bold; font-size:16px;">
+6 Aug 2026 - OWASP Chapter Student Induction Program for JIS University B.Tech and BCA Students
+</summary>
+
+<br>
+
+<h3>Event Overview 🚩</h3>
+
+<p>
+<strong>Event Name:</strong> OWASP Chapter Student Induction Program for JIS University B.Tech and BCA Students<br>
+<strong>Location:</strong> JIS University<br>
+<strong>Duration:</strong> 2 Hours<br>
+<strong>Status:</strong> <span style="color:green; font-weight:bold;">✅ Successfully Completed</span>
+</p>
+
+<p>
+This induction program introduced the OWASP chapter, OWASP communities, chapter activities, and cybersecurity learning opportunities for JIS University B.Tech and BCA students. The session also included a fun quiz and interactive engagement for attendees.
+</p>
+
+<hr>
+
+<h3 style="margin-top:20px;">🌟 Event Highlights</h3>
+
+<p class="event-highlights">
+  <img src="assets/2026-SIP/IMG_20260806_161331688_HDR.jpg" alt="OWASP Chapter Student Induction Program photo 1" />
+  <img src="assets/2026-SIP/IMG-20260806-WA0127.jpg" alt="OWASP Chapter Student Induction Program photo 2" />
+  <img src="assets/2026-SIP/IMG_20260806_150940827_HDR.jpg" alt="OWASP Chapter Student Induction Program photo 3" />
+</p>
+
+<p class="event-highlights">
+  <img src="assets/2026-SIP/IMG_20260806_151032929.jpg" alt="OWASP Chapter Student Induction Program photo 4" />
+  <img src="assets/2026-SIP/IMG_20260806_152602376.jpg" alt="OWASP Chapter Student Induction Program photo 5" />
+  <img src="assets/2026-SIP/IMG_20260806_160016379.jpg" alt="OWASP Chapter Student Induction Program photo 6" />
+</p>
+
+</details>
+
+<hr>
 
 <details>
 <summary class="event-summary" style="cursor:pointer; font-weight:bold; font-size:16px;">
@@ -294,46 +332,6 @@ HexaFalls 2 was a national-level hackathon hosted at JIS University, Kolkata, in
 
 </details>
 
-<hr>
-
-<details>
-<summary style="cursor:pointer; font-weight:bold; font-size:16px;">
-18 Jun 2026 - Prompt Injection Attacks in LLMs
-</summary>
-
-<br>
-
-<h3>Event Overview 🚩</h3>
-
-<p>
-<strong>Event Name:</strong> Prompt Injection Attacks in LLMs<br>
-<strong>Location:</strong> JIS University<br>
-<strong>Duration:</strong> 4 Hours<br>
-<strong>Status:</strong> <span style="color:green; font-weight:bold;">✅ Successfully Completed</span>
-</p>
-
-<p>
-Here we demonstrate Prompt Injection Attacks in LLMs and also celebrated OWASP 25th Anniversary.
-</p>
-
-<hr>
-
-<h3 style="margin-top:20px;">🌟 Event Highlights</h3>
-
-<p class="event-highlights">
-  <img src="assets/June Event/20260618_113410.jpg" alt="June event photo 1" />
-  <img src="assets/June Event/IMG_7974.jpg" alt="June event photo 2" />
-  <img src="assets/June Event/IMG20260608114904.jpg" alt="June event photo 3" />
-</p>
-
-<p class="event-highlights">
-  <img src="assets/June Event/IMG_20260608_120205683.jpg" alt="June event photo 4" />
-  <img src="assets/June Event/IMG_20260608_113421146_HDR.jpg" alt="June event photo 5" />
-  <img src="assets/June Event/20260618_134012.jpg" alt="June event photo 6" />
-</p>
-
-</details>
- 
 <hr>
 
 <details>
