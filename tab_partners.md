@@ -90,6 +90,11 @@ We collaborate with various organizations and institutions to foster cybersecuri
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">Community Partner</td>
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Signed By">Locket Chattaraj</td>
     </tr>
+    <tr>
+      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Organization Name"><a href="https://geministudentambassador.com/">Google Student Ambassador</a></td>
+      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">Community Partner</td>
+      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Signed By">Karan Ray</td>
+    </tr>
   </tbody>
 </table>
 
