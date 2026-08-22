@@ -249,6 +249,46 @@ Here you’ll find details about our upcoming engagements and successfully condu
 
 <details>
 <summary style="cursor:pointer; font-weight:bold; font-size:16px;">
+16 Aug 2026 - OWASP JISU August Virtual Meetup
+</summary>
+
+<br>
+
+<h3>Event Overview 🚩</h3>
+
+<p>
+<strong>Event Name:</strong> OWASP JISU August Virtual Meetup<br>
+<strong>Location:</strong> Virtual<br>
+<strong>Duration:</strong> 2 Hours<br>
+<strong>Status:</strong> <span style="color:green; font-weight:bold;">✅ Successfully Completed</span>
+</p>
+
+<p>
+The meetup included interactions with newcomers and discussions on GitHub-related security lessons.
+</p>
+
+<hr>
+
+<h3 style="margin-top:20px;">🌟 Event Highlights</h3>
+
+<p class="event-highlights">
+  <img src="assets/Aug_VM/Screenshot 2026-08-16 192720.png" alt="OWASP JISU August Virtual Meetup highlight 1" />
+  <img src="assets/Aug_VM/Screenshot 2026-08-16 193856.png" alt="OWASP JISU August Virtual Meetup highlight 2" />
+  <img src="assets/Aug_VM/Screenshot 2026-08-16 200738.png" alt="OWASP JISU August Virtual Meetup highlight 3" />
+</p>
+
+<p class="event-highlights">
+  <img src="assets/Aug_VM/Screenshot 2026-08-16 201617.png" alt="OWASP JISU August Virtual Meetup highlight 4" />
+  <img src="assets/Aug_VM/Screenshot_2026_08_16-22.png" alt="OWASP JISU August Virtual Meetup highlight 5" />
+  <img src="assets/Aug_VM/Screenshot_2026_08_16-23.png" alt="OWASP JISU August Virtual Meetup highlight 6" />
+</p>
+
+</details>
+
+<hr>
+
+<details>
+<summary style="cursor:pointer; font-weight:bold; font-size:16px;">
 6 Aug 2026 - OWASP Chapter Student Induction Program for JIS University B.Tech and BCA Students
 </summary>
 

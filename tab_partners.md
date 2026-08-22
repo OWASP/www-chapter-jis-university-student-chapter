@@ -7,6 +7,25 @@ tags: OWASP-JISU
 ---
 
 <style>
+  .partner-role-tag {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    margin-left: 8px;
+    padding: 4px 9px;
+    border: 1px solid #b7e4c7;
+    border-radius: 999px;
+    background: linear-gradient(135deg, #f0fff4 0%, #dcfce7 100%);
+    color: #166534;
+    font-size: 11px;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: 0.2px;
+    vertical-align: middle;
+    box-shadow: 0 1px 3px rgba(22, 101, 52, 0.12);
+    white-space: nowrap;
+  }
+
   @media (max-width: 768px) {
     table {
       font-size: 14px !important;
@@ -81,16 +100,16 @@ We collaborate with various organizations and institutions to foster cybersecuri
   </thead>
   <tbody>
     <tr style="background-color:#f9f9f9;">
-      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Organization Name"><a href="https://gdg.community.dev/gdg-on-campus-jis-university-kolkata-india/">GDG on Campus JISU</a></td>
-      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">Community Partner</td>
-      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Signed By">Ayushman Bhattacharya</td>
+      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Organization Name"><a href="https://n8n.io/">n8n.io</a></td>
+      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">Events Partner</td>
+      <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Signed By">Shemanti Pal <span class="partner-role-tag">n8n Global Ambassador</span></td>
     </tr>
     <tr>
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Organization Name"><a href="https://www.geeksforgeeks.org/">GeeksforGeeks</a></td>
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">Community Partner</td>
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Signed By">Locket Chattaraj</td>
     </tr>
-    <tr>
+    <tr style="background-color:#ffffff;">
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Organization Name"><a href="https://geministudentambassador.com/">Google Student Ambassador</a></td>
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Role">Community Partner</td>
       <td style="padding:12px; border:1px solid #e0e0e0;" data-label="Signed By">Karan Ray</td>
