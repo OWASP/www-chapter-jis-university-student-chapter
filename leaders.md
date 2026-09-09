@@ -3,7 +3,7 @@
 * [Rahul Kamilya (Chapter Leader)](mailto:rahul.kamilya@owasp.org)
 * [Shreya Dutta (Chapter Leader)](mailto:shreya.dutta@owasp.org)
 * [Tanaya Das (Faculty Advisor)](mailto:tanaya.das@owasp.org)
-
+* [Sayuj Sur (Chapter Leader)](mailto:sayuj.sur@owasp.org)
 
 ### CORE Team
 
